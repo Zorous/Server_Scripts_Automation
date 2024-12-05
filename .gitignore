@@ -1,3 +1,10 @@
 venve/
 venve/*
 backend/venve/
+backend/venve/*
+
+
+frontend/node_modules/
+frontend/node_modules/*
+node_modules/*
+node_modules/
