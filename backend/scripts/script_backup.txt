@@ -1,0 +1,4 @@
+[2024-12-18 15:18:28] Script started.
+[2024-12-18 15:18:28] Database error: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+[2024-12-18 15:28:42] Script started.
+[2024-12-18 15:28:42] Database error: ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')

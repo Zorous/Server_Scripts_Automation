@@ -11,6 +11,8 @@ services:
       - ./backend:/app
     environment:
       NODE_ENV: development  # Optional for Python app, not strictly needed
+    networks:
+      - app-network
 
   frontend:
     build:
@@ -24,26 +26,39 @@ services:
     environment:
       NODE_ENV: development
     command: npm run dev -- --host  # Ensure frontend listens on all interfaces
+    networks:
+      - app-network
 
   mysql:
     image: mariadb:10.6
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: ""   # Set your MySQL root password here (empty password if desired)
+      MYSQL_ROOT_PASSWORD: ""   # Set your MySQL root password here
       MYSQL_DATABASE: ssa       # Your database name
-      MYSQL_ALLOW_EMPTY_PASSWORD: yes
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"  # Avoid using empty password for security
     ports:
-      - "3307:3306"  # Expose MySQL port 3307 on host, container port is 3306
+      - "3310:3306"  # Map MySQL container port 3306 to host port 3310
     volumes:
       - "C:/xampp/mysql/data:/var/lib/mysql"  # Mount XAMPP's MySQL data to Docker's MySQL data
+    command:
+      --bind-address=0.0.0.0  # Allow connections from any IP address
+    networks:
+      - app-network
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
-    restart: always
     environment:
-      PMA_HOST: mysql        # Name of the MySQL container (matches the service name in the same compose file)
-      PMA_PORT: 3306         # Port of the MySQL container (use default MySQL port 3306)
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: "root"
     ports:
-      - "8080:80" 
+      - "8080:80"
     depends_on:
       - mysql
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
