@@ -248,6 +248,7 @@ def add_command():
     data = request.get_json()
     name = data.get('name')
     command = data.get('command')
+    description = data.get('description')
 
     if not name or not command:
         return jsonify({"error": "Name and command are required"}), 400
@@ -256,7 +257,7 @@ def add_command():
     cursor = conn.cursor()
 
     try:
-        cursor.execute("INSERT INTO Jobs (JobName, CallCmd) VALUES (%s, %s)", (name, command))
+        cursor.execute("INSERT INTO Jobs (JobName, CallCmd, Description) VALUES (%s, %s,%s)", (name, command, description))
         conn.commit()
         return jsonify({"message": "Command added successfully"}), 200
     except Exception as e:

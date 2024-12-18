@@ -16,6 +16,7 @@ const App = () => {
   const [password, setPassword] = useState("");
   const [newCommand, setNewCommand] = useState("");
   const [newCommandName, setNewCommandName] = useState("");
+  const [newDescription, setNewDescription] = useState("");
   const [showModal, setShowModal] = useState(false);
 
   useEffect(() => {
@@ -46,11 +47,13 @@ const App = () => {
       .post("http://localhost:5004/add_command", {
         name: newCommandName,
         command: newCommand,
+        description: newDescription
       })
       .then(() => {
         alert("Command added successfully!");
         setNewCommand("");
         setNewCommandName("");
+        setNewDescription("");
         setShowModal(false); // Close modal on success
         axios
           .get("http://localhost:5004/scripts")
@@ -260,6 +263,19 @@ const App = () => {
                   placeholder="Command"
                   value={newCommand}
                   onChange={(e) => setNewCommand(e.target.value)}
+                  style={{
+                    padding: "12px",
+                    width: "90%",
+                    marginBottom: "20px",
+                    border: "1px solid #ccc",
+                    borderRadius: "5px",
+                  }}
+                />
+                <input
+                  type="text"
+                  placeholder="Description"
+                  value={newDescription}
+                  onChange={(e) => setNewDescription(e.target.value)}
                   style={{
                     padding: "12px",
                     width: "90%",
