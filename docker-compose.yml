@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "5004:5004"  # Update to match the backend port
+    volumes:
+      - ./backend:/app
+    environment:
+      NODE_ENV: development  # Optional for Python app, not strictly needed
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"  # Expose the Vite dev server port
+    volumes:
+      - ./frontend:/src
+      - /src/node_modules
+    environment:
+      NODE_ENV: development
+    command: npm run dev -- --host  # Ensure frontend listens on all interfaces
+
+  mysql:
+    image: mariadb:10.6
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ""   # Set your MySQL root password here (empty password if desired)
+      MYSQL_DATABASE: ssa       # Your database name
+      MYSQL_ALLOW_EMPTY_PASSWORD: yes
+    ports:
+      - "3307:3306"  # Expose MySQL port 3307 on host, container port is 3306
+    volumes:
+      - "C:/xampp/mysql/data:/var/lib/mysql"  # Mount XAMPP's MySQL data to Docker's MySQL data
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    restart: always
+    environment:
+      PMA_HOST: mysql        # Name of the MySQL container (matches the service name in the same compose file)
+      PMA_PORT: 3306         # Port of the MySQL container (use default MySQL port 3306)
+    ports:
+      - "8080:80" 
+    depends_on:
+      - mysql
