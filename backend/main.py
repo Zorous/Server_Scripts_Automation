@@ -51,13 +51,20 @@ def get_db_connection():
     Returns:
         connection: MySQL database connection object.
     """
-    return mysql.connector.connect(
-        host=MYSQL_CONFIG['host'],
-        user=MYSQL_CONFIG['user'],
-        password=MYSQL_CONFIG['password'],
-        database=MYSQL_CONFIG['database'],
-        port=MYSQL_CONFIG['port']
-    )
+    try:
+        connection = mysql.connector.connect(
+            host=MYSQL_CONFIG['host'],
+            user=MYSQL_CONFIG['user'],
+            password=MYSQL_CONFIG['password'],
+            database=MYSQL_CONFIG['database'],
+            port=MYSQL_CONFIG['port']
+        )
+        write_log(f"Successfully connected to MySQL database at {MYSQL_CONFIG['host']}")
+        return connection
+    except mysql.connector.Error as err:
+        error_message = f"Error connecting to MySQL: {err}"
+        write_log(error_message)
+        raise Exception(error_message)
 
 # REXEC command execution function for IBM i
 def rexec_command(host, port, username, password, command):
@@ -75,6 +82,7 @@ def rexec_command(host, port, username, password, command):
         str: Command output or error message.
     """
     try:
+        write_log(f"Connecting to IBM i system at {host}:{port} to execute command: {command}")
         s = socket.create_connection((host, port))
         s.sendall(b'\0')  # Port value (0) as a null byte
         s.sendall(username.encode() + b'\0')  # Username
@@ -89,9 +97,12 @@ def rexec_command(host, port, username, password, command):
             response += data
 
         s.close()
+        write_log(f"Executed command successfully, received response: {response.decode('utf-8')}")
         return response.decode('utf-8', errors='ignore')
     except Exception as e:
-        return f"Error: {str(e)}"
+        error_message = f"Error executing REXEC command: {str(e)}"
+        write_log(error_message)
+        return error_message
 
 # Route for user login
 @app.route('/login', methods=['POST'])
@@ -108,8 +119,10 @@ def login():
     password = data.get('password')
 
     if username == USER_CREDENTIALS['username'] and password == USER_CREDENTIALS['password']:
+        write_log(f"User {username} logged in successfully.")
         return jsonify({'message': 'Login successful'}), 200
     else:
+        write_log(f"Failed login attempt for user {username}.")
         return jsonify({'error': 'Invalid credentials'}), 401
 
 # Route to list all available scripts/jobs from the database
@@ -130,8 +143,11 @@ def list_scripts():
         conn.close()
 
         job_list = [{"id": job['Id'], "name": f"{job['JobName']} ({job['Description']})"} for job in jobs]
+        write_log(f"Fetched {len(job_list)} jobs from the database.")
         return jsonify(job_list)
     except mysql.connector.Error as err:
+        error_message = f"Error fetching jobs: {err}"
+        write_log(error_message)
         return jsonify({'error': f"Error fetching data: {err}"}), 500
 
 # Route to run a script based on its ID
@@ -153,9 +169,9 @@ def run_script():
         cursor.execute("SELECT CallCmd FROM Jobs WHERE Id = %s", (script_id,))
         job = cursor.fetchone()
         if job:
-         print("____SELECTED JOB :____" + job['CallCmd'])
+            write_log(f"Selected job: {job['CallCmd']}")
         else:
-         print("No job found with the given ID")        
+            write_log("No job found with the given ID")
         cursor.close()
         conn.close()
 
@@ -164,11 +180,16 @@ def run_script():
 
         # Run the command using subprocess
         result = subprocess.run(job['CallCmd'].split(), capture_output=True, text=True, check=True)
+        write_log(f"Script executed successfully, output: {result.stdout}")
         return jsonify({'output': result.stdout})
 
     except mysql.connector.Error as err:
+        error_message = f"Database error: {err}"
+        write_log(error_message)
         return jsonify({'error': f"Database error: {err}"}), 500
     except subprocess.CalledProcessError as e:
+        error_message = f"Script execution error: {e.stderr}"
+        write_log(error_message)
         return jsonify({'error': e.stderr}), 500
 
 # Route to end specific jobs on IBM i system
@@ -232,40 +253,9 @@ def submit_job():
         return jsonify({'message': 'Job submitted successfully', 'output': output})
 
     except Exception as e:
-        error_message = f"Error: {str(e)}"
+        error_message = f"Error submitting job: {str(e)}"
         write_log(error_message)
         return jsonify({'error': error_message}), 500
 
-# Route to add a new command to the Jobs table
-@app.route('/add_command', methods=['POST'])
-def add_command():
-    """
-    Adds a new command to the Jobs table in the database.
-
-    Returns:
-        JSON response: Confirmation of command addition.
-    """
-    data = request.get_json()
-    name = data.get('name')
-    command = data.get('command')
-    description = data.get('description')
-
-    if not name or not command:
-        return jsonify({"error": "Name and command are required"}), 400
-    
-    conn = get_db_connection()
-    cursor = conn.cursor()
-
-    try:
-        cursor.execute("INSERT INTO Jobs (JobName, CallCmd, Description) VALUES (%s, %s,%s)", (name, command, description))
-        conn.commit()
-        return jsonify({"message": "Command added successfully"}), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-    finally:
-        cursor.close()
-        conn.close()
-
-# Start the Flask application
 if __name__ == '__main__':
-    app.run(debug=True, port=5004)
+    app.run(debug=True, host='0.0.0.0')

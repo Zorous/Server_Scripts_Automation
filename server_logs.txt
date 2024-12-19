@@ -1,0 +1,42 @@
+[2024-12-19 14:17:42] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:42] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:42] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:42] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:43] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:43] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:44] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:44] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:45] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:45] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:46] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:46] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:47] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:47] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:48] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:48] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:49] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:49] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:50] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:50] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:51] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:51] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:52] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:52] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:54] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:54] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:54] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:54] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:55] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:55] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:56] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:56] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:57] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:57] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:58] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:58] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:17:59] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:17:59] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:18:00] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:18:00] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist
+[2024-12-19 14:18:01] Successfully connected to MySQL database at 172.21.0.59
+[2024-12-19 14:18:01] Error fetching jobs: 1146 (42S02): Table 'IBM-JOBS-RESTART.Jobs' doesn't exist

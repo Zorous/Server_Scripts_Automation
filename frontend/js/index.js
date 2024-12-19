@@ -131,9 +131,12 @@ function runScript() {
     // Check if the server responded with success
     if (!response.ok) {
       console.error("Error: Server responded with status:", response.status);
-      throw new Error(`Server error: ${response.statusText}`);
+      return response.text().then(text => {
+        console.error("Error details:", text);
+        throw new Error(`Server error: ${text}`);
+      });
     }
-
+  
     return response.json();
   })
   .then(data => {
@@ -142,7 +145,7 @@ function runScript() {
     // Check if there's an output in the server response
     if (data.output) {
       console.log("Script execution output:", data.output);
-      document.getElementById("output").innerText = data.output; // Display the server output
+      document.getElementById("output").innerText = data.output;
     } else if (data.error) {
       console.error("Error in script execution:", data.error);
       document.getElementById("output").innerText = `Error: ${data.error}`;
@@ -150,8 +153,9 @@ function runScript() {
   })
   .catch(error => {
     console.error("Error during fetch operation:", error);
-    document.getElementById("output").innerText = `Error: ${error.message}`; // Display error message in UI
+    document.getElementById("output").innerText = `Error: ${error.message}`;
   });
+  
 }
 
 function handleLogout() {
