@@ -11,15 +11,15 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
 # Hardcoded admin credentials
-USER_CREDENTIALS = {'username': 'admin', 'password': 'admin12'}
+USER_CREDENTIALS = {'username': 'admin', 'password': 'admin123'}
 
 # MySQL Database configuration
 MYSQL_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '',
-    'database': 'SSA',
-    'port': 3307
+    'host': '172.21.0.59',
+    'user': 'routerfriend1',
+    'password': 'P@ssw0rdcl',
+    'database': 'IBM-JOBS-RESTART',
+    'port': 3306
 }
 
 # IBM i REXEC Configuration
