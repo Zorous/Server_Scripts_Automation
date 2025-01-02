@@ -14,12 +14,21 @@ CORS(app)  # Enable CORS for all routes
 USER_CREDENTIALS = {'username': 'admin', 'password': 'admin123'}
 
 # MySQL Database configuration
+'''
 MYSQL_CONFIG = {
     'host': '172.21.0.59',
     'user': 'routerfriend1',
     'password': 'P@ssw0rdcl',
     'database': 'IBM-JOBS-RESTART',
     'port': 3306
+}
+'''
+MYSQL_CONFIG = {
+    'host': 'localhost',
+    'user': 'root',
+    'password': '',
+    'database': 'SSA',
+    'port': 3307
 }
 
 # IBM i REXEC Configuration
@@ -137,7 +146,7 @@ def list_scripts():
     try:
         conn = get_db_connection()
         cursor = conn.cursor(dictionary=True)
-        cursor.execute("SELECT Id, JobName, Description FROM Jobs")
+        cursor.execute("SELECT Id, JobName, Description FROM jobs")
         jobs = cursor.fetchall()
         cursor.close()
         conn.close()
@@ -166,7 +175,7 @@ def run_script():
     try:
         conn = get_db_connection()
         cursor = conn.cursor(dictionary=True)
-        cursor.execute("SELECT CallCmd FROM Jobs WHERE Id = %s", (script_id,))
+        cursor.execute("SELECT CallCmd FROM jobs WHERE Id = %s", (script_id,))
         job = cursor.fetchone()
         if job:
             write_log(f"Selected job: {job['CallCmd']}")
