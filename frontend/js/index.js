@@ -1,27 +1,45 @@
-let scripts = [];
-
-// Initialize app
 document.addEventListener("DOMContentLoaded", () => {
   const isLoggedIn = localStorage.getItem("isLoggedIn");
 
-  // If not logged in, redirect to login page
+  // Redirect to login page if not logged in
   if (!isLoggedIn) {
-    window.location.href = "login.html"; // Redirect to the login page if not logged in
+    if (window.location.pathname !== "/login.html") {
+      window.location.href = "login.html";
+    }
     return;
   }
 
-  const app = document.getElementById("app");
-  // Load scripts only if they are not loaded already
-  if (!sessionStorage.getItem('scriptsLoaded')) {
-    loadScripts();
-  } else {
-    // Retrieve from sessionStorage if already loaded
-    scripts = JSON.parse(sessionStorage.getItem('scripts'));
-    console.log("Scripts retrieved from sessionStorage:", scripts);
-    populateScriptDropdown(scripts);
+  // If logged in and on the login page, redirect to the main page
+  if (isLoggedIn && window.location.pathname === "/login.html") {
+    window.location.href = "index.html"; // Main page
+    return;
   }
 
-  renderApp(app); // Render the job selection interface
+  // Initialize the app container
+  const app = document.getElementById("app");
+  renderApp(app);
+
+  // Check localStorage for scripts and handle appropriately
+  const storedScripts = localStorage.getItem("scripts");
+
+  if (storedScripts) {
+    try {
+      scripts = JSON.parse(storedScripts);
+      if (Array.isArray(scripts) && scripts.length > 0) {
+        console.log("Scripts loaded from localStorage:", scripts);
+        populateScriptDropdown(scripts);
+      } else {
+        console.warn("Scripts in localStorage are empty or invalid. Refetching...");
+        fetchAndStoreScripts();
+      }
+    } catch (error) {
+      console.error("Error parsing scripts from localStorage:", error);
+      fetchAndStoreScripts();
+    }
+  } else {
+    console.log("No scripts found in localStorage. Fetching from server...");
+    fetchAndStoreScripts();
+  }
 });
 
 function renderApp(app) {
@@ -29,10 +47,7 @@ function renderApp(app) {
     <div class="app-container">
       <h1>Select a Job to Run</h1>
       <select id="scriptDropdown">
-        <option value="">Select a job</option>
-        ${scripts.length > 0
-          ? scripts.map((script) => `<option value="${script.id}">${script.name}</option>`).join("")
-          : "<option value=''>No jobs available</option>"}
+        <option value="">Loading jobs...</option> <!-- Placeholder while fetching -->
       </select>
       <button id="run-btn">Run Job</button>
       <h3>Output:</h3>
@@ -41,13 +56,13 @@ function renderApp(app) {
     </div>
   `;
 
-  // Event listeners
+  // Add event listeners after rendering the DOM
   document.getElementById("run-btn").addEventListener("click", runScript);
   document.getElementById("logout-btn").addEventListener("click", handleLogout);
 }
 
-function loadScripts() {
-  console.log("Fetching scripts...");
+function fetchAndStoreScripts() {
+  console.log("Fetching scripts from server...");
 
   fetch("http://localhost:5000/scripts") // Replace with your server's URL
     .then((response) => {
@@ -57,55 +72,60 @@ function loadScripts() {
       return response.json();
     })
     .then((data) => {
-      scripts = data; // Load the list of scripts
-      console.log("Scripts loaded:", scripts);
+      if (data.jobs && Array.isArray(data.jobs)) {
+        scripts = data.jobs; // Assuming the jobs are returned under the 'jobs' key
+        console.log("Scripts fetched and stored:", scripts);
 
-      // Save to sessionStorage
-      sessionStorage.setItem('scripts', JSON.stringify(scripts));
-      sessionStorage.setItem('scriptsLoaded', true);
+        // Store scripts in localStorage
+        localStorage.setItem("scripts", JSON.stringify(scripts));
 
-      populateScriptDropdown(scripts); // Populate the dropdown menu with available scripts
+        populateScriptDropdown(scripts); // Populate the dropdown menu
+      } else {
+        throw new Error("Unexpected data structure from server.");
+      }
     })
     .catch((error) => {
       console.error("Error fetching scripts:", error);
-      document.getElementById("output").innerText = "Error: Could not load scripts."; // Inform user of the error
+      const dropdown = document.getElementById("scriptDropdown");
+      if (dropdown) {
+        dropdown.innerHTML = `<option value="">Failed to load jobs</option>`;
+      }
     });
 }
 
 function populateScriptDropdown(scripts) {
   const dropdown = document.getElementById("scriptDropdown");
-  console.log("Dropdown element:", dropdown); // Check if dropdown exists
 
   if (!dropdown) {
     console.error("Dropdown element not found!");
     return;
   }
 
-  // Only update the dropdown if there are scripts
+  // Clear existing options
+  dropdown.innerHTML = `<option value="">Select a job</option>`;
+
   if (scripts.length === 0) {
     dropdown.innerHTML = `<option value="">No jobs available</option>`;
     return;
   }
 
-  dropdown.innerHTML = ""; // Clear any previous entries
   scripts.forEach((script) => {
     const option = document.createElement("option");
-    option.value = script.id;
-    option.textContent = script.name;
+    option.value = script.id; // Ensure `id` exists in your server response
+    option.textContent = script.name; // Ensure `name` exists in your server response
     dropdown.appendChild(option);
   });
 }
 
-
 function runScript() {
   const selectedScriptId = document.getElementById("scriptDropdown").value;
   if (!selectedScriptId) {
-    alert("Please select a script to run.");
+    alert("Please select a job to run.");
     return;
   }
 
-  const output = `Running script with ID: ${selectedScriptId}`;
-  document.getElementById("output").innerText = output;
+  const outputElement = document.getElementById("output");
+  outputElement.innerText = `Running script with ID: ${selectedScriptId}...`;
 
   const requestData = { script_id: selectedScriptId };
 
@@ -116,20 +136,26 @@ function runScript() {
     },
     body: JSON.stringify(requestData),
   })
-    .then((response) => response.json())
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Failed to execute script, server returned non-200 status.");
+      }
+      return response.json();
+    })
     .then((data) => {
       if (data.output) {
-        document.getElementById("output").innerText = data.output;
+        outputElement.innerText = data.output;
       } else {
-        document.getElementById("output").innerText = "Error: " + data.error;
+        outputElement.innerText = "Error: " + (data.error || "Unknown error occurred.");
       }
     })
     .catch((error) => {
-      document.getElementById("output").innerText = "Error: " + error.message;
+      outputElement.innerText = "Error: " + error.message;
     });
 }
 
 function handleLogout() {
   localStorage.removeItem("isLoggedIn");
-  window.location.href = "login.html"; // Redirect to login page on logout
+  localStorage.removeItem("scripts"); // Clear stored scripts on logout
+  window.location.href = "login.html"; // Redirect to login page
 }

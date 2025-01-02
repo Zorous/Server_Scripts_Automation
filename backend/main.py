@@ -153,7 +153,7 @@ def list_scripts():
 
         job_list = [{"id": job['Id'], "name": f"{job['JobName']} ({job['Description']})"} for job in jobs]
         write_log(f"Fetched {len(job_list)} jobs from the database.")
-        return jsonify(job_list)
+        return jsonify({"jobs": job_list})  # Wrap under a "jobs" key
     except mysql.connector.Error as err:
         error_message = f"Error fetching jobs: {err}"
         write_log(error_message)
@@ -265,6 +265,41 @@ def submit_job():
         error_message = f"Error submitting job: {str(e)}"
         write_log(error_message)
         return jsonify({'error': error_message}), 500
+
+# Route to add a new command to the Jobs table
+@app.route('/add_command', methods=['POST'])
+def add_command():
+    """
+    Adds a new command to the Jobs table in the database.
+
+    Returns:
+        JSON response: Confirmation of command addition with updated job list.
+    """
+    data = request.get_json()
+    name = data.get('name')
+    command = data.get('command')
+    description = data.get('description')
+
+    if not name or not command:
+        return jsonify({"error": "Name and command are required"}), 400
+    
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    try:
+        cursor.execute("INSERT INTO Jobs (JobName, CallCmd, Description) VALUES (%s, %s,%s)", (name, command, description))
+        conn.commit()
+
+        # Fetch updated list of jobs
+        cursor.execute("SELECT * FROM Jobs")
+        updated_jobs = cursor.fetchall()
+
+        return jsonify({"message": "Command added successfully", "jobs": updated_jobs}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    finally:
+        cursor.close()
+        conn.close()
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')

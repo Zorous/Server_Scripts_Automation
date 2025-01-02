@@ -5052,3 +5052,2618 @@
 [2025-01-02 13:34:51] Fetched 9 jobs from the database.
 [2025-01-02 13:39:09] Successfully connected to MySQL database at localhost
 [2025-01-02 13:39:09] Fetched 9 jobs from the database.
+[2025-01-02 14:17:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:18:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:19:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:23:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:33] Fetched 10 jobs from the database.
+[2025-01-02 14:37:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:34] Fetched 10 jobs from the database.
+[2025-01-02 14:37:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:34] Fetched 10 jobs from the database.
+[2025-01-02 14:37:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:35] Fetched 10 jobs from the database.
+[2025-01-02 14:37:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:35] Fetched 10 jobs from the database.
+[2025-01-02 14:37:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:36] Fetched 10 jobs from the database.
+[2025-01-02 14:37:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:36] Fetched 10 jobs from the database.
+[2025-01-02 14:37:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:36] Fetched 10 jobs from the database.
+[2025-01-02 14:37:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:37] Fetched 10 jobs from the database.
+[2025-01-02 14:37:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:37] Fetched 10 jobs from the database.
+[2025-01-02 14:37:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:37] Fetched 10 jobs from the database.
+[2025-01-02 14:37:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:38] Fetched 10 jobs from the database.
+[2025-01-02 14:37:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:38] Fetched 10 jobs from the database.
+[2025-01-02 14:37:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:39] Fetched 10 jobs from the database.
+[2025-01-02 14:37:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:39] Fetched 10 jobs from the database.
+[2025-01-02 14:37:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:40] Fetched 10 jobs from the database.
+[2025-01-02 14:37:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:40] Fetched 10 jobs from the database.
+[2025-01-02 14:37:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:41] Fetched 10 jobs from the database.
+[2025-01-02 14:37:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:41] Fetched 10 jobs from the database.
+[2025-01-02 14:37:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:42] Fetched 10 jobs from the database.
+[2025-01-02 14:37:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:37:42] Fetched 10 jobs from the database.
+[2025-01-02 14:41:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:18] Fetched 10 jobs from the database.
+[2025-01-02 14:41:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:19] Fetched 10 jobs from the database.
+[2025-01-02 14:41:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:20] Fetched 10 jobs from the database.
+[2025-01-02 14:41:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:20] Fetched 10 jobs from the database.
+[2025-01-02 14:41:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:21] Fetched 10 jobs from the database.
+[2025-01-02 14:41:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:21] Fetched 10 jobs from the database.
+[2025-01-02 14:41:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:22] Fetched 10 jobs from the database.
+[2025-01-02 14:41:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:22] Fetched 10 jobs from the database.
+[2025-01-02 14:41:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:23] Fetched 10 jobs from the database.
+[2025-01-02 14:41:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:23] Fetched 10 jobs from the database.
+[2025-01-02 14:41:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:24] Fetched 10 jobs from the database.
+[2025-01-02 14:41:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:24] Fetched 10 jobs from the database.
+[2025-01-02 14:41:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:25] Fetched 10 jobs from the database.
+[2025-01-02 14:41:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:25] Fetched 10 jobs from the database.
+[2025-01-02 14:41:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:26] Fetched 10 jobs from the database.
+[2025-01-02 14:41:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:26] Fetched 10 jobs from the database.
+[2025-01-02 14:41:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:26] Fetched 10 jobs from the database.
+[2025-01-02 14:41:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:27] Fetched 10 jobs from the database.
+[2025-01-02 14:41:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:27] Fetched 10 jobs from the database.
+[2025-01-02 14:41:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:28] Fetched 10 jobs from the database.
+[2025-01-02 14:41:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:28] Fetched 10 jobs from the database.
+[2025-01-02 14:41:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:29] Fetched 10 jobs from the database.
+[2025-01-02 14:41:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:29] Fetched 10 jobs from the database.
+[2025-01-02 14:41:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:29] Fetched 10 jobs from the database.
+[2025-01-02 14:41:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:30] Fetched 10 jobs from the database.
+[2025-01-02 14:41:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:31] Fetched 10 jobs from the database.
+[2025-01-02 14:41:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:31] Fetched 10 jobs from the database.
+[2025-01-02 14:41:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:32] Fetched 10 jobs from the database.
+[2025-01-02 14:41:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:33] Fetched 10 jobs from the database.
+[2025-01-02 14:41:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:34] Fetched 10 jobs from the database.
+[2025-01-02 14:41:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:34] Fetched 10 jobs from the database.
+[2025-01-02 14:41:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:35] Fetched 10 jobs from the database.
+[2025-01-02 14:41:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:36] Fetched 10 jobs from the database.
+[2025-01-02 14:41:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:37] Fetched 10 jobs from the database.
+[2025-01-02 14:41:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:38] Fetched 10 jobs from the database.
+[2025-01-02 14:41:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:38] Fetched 10 jobs from the database.
+[2025-01-02 14:41:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:39] Fetched 10 jobs from the database.
+[2025-01-02 14:41:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:40] Fetched 10 jobs from the database.
+[2025-01-02 14:41:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:40] Fetched 10 jobs from the database.
+[2025-01-02 14:41:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:41] Fetched 10 jobs from the database.
+[2025-01-02 14:41:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:41] Fetched 10 jobs from the database.
+[2025-01-02 14:41:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:42] Fetched 10 jobs from the database.
+[2025-01-02 14:41:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:42] Fetched 10 jobs from the database.
+[2025-01-02 14:41:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:43] Fetched 10 jobs from the database.
+[2025-01-02 14:41:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:43] Fetched 10 jobs from the database.
+[2025-01-02 14:41:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:44] Fetched 10 jobs from the database.
+[2025-01-02 14:41:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:45] Fetched 10 jobs from the database.
+[2025-01-02 14:41:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:45] Fetched 10 jobs from the database.
+[2025-01-02 14:41:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:46] Fetched 10 jobs from the database.
+[2025-01-02 14:41:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:47] Fetched 10 jobs from the database.
+[2025-01-02 14:41:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:48] Fetched 10 jobs from the database.
+[2025-01-02 14:41:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:49] Fetched 10 jobs from the database.
+[2025-01-02 14:41:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:49] Fetched 10 jobs from the database.
+[2025-01-02 14:41:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:50] Fetched 10 jobs from the database.
+[2025-01-02 14:41:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:50] Fetched 10 jobs from the database.
+[2025-01-02 14:41:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:51] Fetched 10 jobs from the database.
+[2025-01-02 14:41:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:51] Fetched 10 jobs from the database.
+[2025-01-02 14:41:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:52] Fetched 10 jobs from the database.
+[2025-01-02 14:41:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:52] Fetched 10 jobs from the database.
+[2025-01-02 14:41:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:53] Fetched 10 jobs from the database.
+[2025-01-02 14:41:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:53] Fetched 10 jobs from the database.
+[2025-01-02 14:41:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:54] Fetched 10 jobs from the database.
+[2025-01-02 14:41:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:54] Fetched 10 jobs from the database.
+[2025-01-02 14:41:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:55] Fetched 10 jobs from the database.
+[2025-01-02 14:41:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:55] Fetched 10 jobs from the database.
+[2025-01-02 14:41:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:56] Fetched 10 jobs from the database.
+[2025-01-02 14:41:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:56] Fetched 10 jobs from the database.
+[2025-01-02 14:41:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:57] Fetched 10 jobs from the database.
+[2025-01-02 14:41:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:57] Fetched 10 jobs from the database.
+[2025-01-02 14:41:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:58] Fetched 10 jobs from the database.
+[2025-01-02 14:41:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:58] Fetched 10 jobs from the database.
+[2025-01-02 14:41:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:59] Fetched 10 jobs from the database.
+[2025-01-02 14:41:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:41:59] Fetched 10 jobs from the database.
+[2025-01-02 14:42:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:00] Fetched 10 jobs from the database.
+[2025-01-02 14:42:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:00] Fetched 10 jobs from the database.
+[2025-01-02 14:42:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:00] Fetched 10 jobs from the database.
+[2025-01-02 14:42:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:01] Fetched 10 jobs from the database.
+[2025-01-02 14:42:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:01] Fetched 10 jobs from the database.
+[2025-01-02 14:42:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:02] Fetched 10 jobs from the database.
+[2025-01-02 14:42:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:02] Fetched 10 jobs from the database.
+[2025-01-02 14:42:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:02] Fetched 10 jobs from the database.
+[2025-01-02 14:42:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:03] Fetched 10 jobs from the database.
+[2025-01-02 14:42:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:03] Fetched 10 jobs from the database.
+[2025-01-02 14:42:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:03] Fetched 10 jobs from the database.
+[2025-01-02 14:42:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:04] Fetched 10 jobs from the database.
+[2025-01-02 14:42:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:04] Fetched 10 jobs from the database.
+[2025-01-02 14:42:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:05] Fetched 10 jobs from the database.
+[2025-01-02 14:42:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:06] Fetched 10 jobs from the database.
+[2025-01-02 14:42:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:06] Fetched 10 jobs from the database.
+[2025-01-02 14:42:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:07] Fetched 10 jobs from the database.
+[2025-01-02 14:42:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:08] Fetched 10 jobs from the database.
+[2025-01-02 14:42:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:08] Fetched 10 jobs from the database.
+[2025-01-02 14:42:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:09] Fetched 10 jobs from the database.
+[2025-01-02 14:42:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:09] Fetched 10 jobs from the database.
+[2025-01-02 14:42:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:10] Fetched 10 jobs from the database.
+[2025-01-02 14:42:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:10] Fetched 10 jobs from the database.
+[2025-01-02 14:42:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:11] Fetched 10 jobs from the database.
+[2025-01-02 14:42:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:11] Fetched 10 jobs from the database.
+[2025-01-02 14:42:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:12] Fetched 10 jobs from the database.
+[2025-01-02 14:42:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:12] Fetched 10 jobs from the database.
+[2025-01-02 14:42:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:13] Fetched 10 jobs from the database.
+[2025-01-02 14:42:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:13] Fetched 10 jobs from the database.
+[2025-01-02 14:42:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:14] Fetched 10 jobs from the database.
+[2025-01-02 14:42:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:14] Fetched 10 jobs from the database.
+[2025-01-02 14:42:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:15] Fetched 10 jobs from the database.
+[2025-01-02 14:42:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:15] Fetched 10 jobs from the database.
+[2025-01-02 14:42:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:16] Fetched 10 jobs from the database.
+[2025-01-02 14:42:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:17] Fetched 10 jobs from the database.
+[2025-01-02 14:42:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:17] Fetched 10 jobs from the database.
+[2025-01-02 14:42:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:18] Fetched 10 jobs from the database.
+[2025-01-02 14:42:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:18] Fetched 10 jobs from the database.
+[2025-01-02 14:42:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:19] Fetched 10 jobs from the database.
+[2025-01-02 14:42:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:19] Fetched 10 jobs from the database.
+[2025-01-02 14:42:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:20] Fetched 10 jobs from the database.
+[2025-01-02 14:42:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:20] Fetched 10 jobs from the database.
+[2025-01-02 14:42:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:20] Fetched 10 jobs from the database.
+[2025-01-02 14:42:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:21] Fetched 10 jobs from the database.
+[2025-01-02 14:42:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:21] Fetched 10 jobs from the database.
+[2025-01-02 14:42:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:22] Fetched 10 jobs from the database.
+[2025-01-02 14:42:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:22] Fetched 10 jobs from the database.
+[2025-01-02 14:42:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:23] Fetched 10 jobs from the database.
+[2025-01-02 14:42:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:23] Fetched 10 jobs from the database.
+[2025-01-02 14:42:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:24] Fetched 10 jobs from the database.
+[2025-01-02 14:42:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:24] Fetched 10 jobs from the database.
+[2025-01-02 14:42:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:25] Fetched 10 jobs from the database.
+[2025-01-02 14:42:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:25] Fetched 10 jobs from the database.
+[2025-01-02 14:42:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:26] Fetched 10 jobs from the database.
+[2025-01-02 14:42:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:26] Fetched 10 jobs from the database.
+[2025-01-02 14:42:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:26] Fetched 10 jobs from the database.
+[2025-01-02 14:42:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:27] Fetched 10 jobs from the database.
+[2025-01-02 14:42:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:27] Fetched 10 jobs from the database.
+[2025-01-02 14:42:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:28] Fetched 10 jobs from the database.
+[2025-01-02 14:42:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:28] Fetched 10 jobs from the database.
+[2025-01-02 14:42:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:28] Fetched 10 jobs from the database.
+[2025-01-02 14:42:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:29] Fetched 10 jobs from the database.
+[2025-01-02 14:42:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:29] Fetched 10 jobs from the database.
+[2025-01-02 14:42:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:30] Fetched 10 jobs from the database.
+[2025-01-02 14:42:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:30] Fetched 10 jobs from the database.
+[2025-01-02 14:42:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:31] Fetched 10 jobs from the database.
+[2025-01-02 14:42:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:31] Fetched 10 jobs from the database.
+[2025-01-02 14:42:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:32] Fetched 10 jobs from the database.
+[2025-01-02 14:42:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:32] Fetched 10 jobs from the database.
+[2025-01-02 14:42:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:33] Fetched 10 jobs from the database.
+[2025-01-02 14:42:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:33] Fetched 10 jobs from the database.
+[2025-01-02 14:42:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:34] Fetched 10 jobs from the database.
+[2025-01-02 14:42:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:34] Fetched 10 jobs from the database.
+[2025-01-02 14:42:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:35] Fetched 10 jobs from the database.
+[2025-01-02 14:42:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:35] Fetched 10 jobs from the database.
+[2025-01-02 14:42:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:36] Fetched 10 jobs from the database.
+[2025-01-02 14:42:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:37] Fetched 10 jobs from the database.
+[2025-01-02 14:42:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:37] Fetched 10 jobs from the database.
+[2025-01-02 14:42:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:38] Fetched 10 jobs from the database.
+[2025-01-02 14:42:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:38] Fetched 10 jobs from the database.
+[2025-01-02 14:42:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:39] Fetched 10 jobs from the database.
+[2025-01-02 14:42:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:39] Fetched 10 jobs from the database.
+[2025-01-02 14:42:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:40] Fetched 10 jobs from the database.
+[2025-01-02 14:42:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:40] Fetched 10 jobs from the database.
+[2025-01-02 14:42:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:41] Fetched 10 jobs from the database.
+[2025-01-02 14:42:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:41] Fetched 10 jobs from the database.
+[2025-01-02 14:42:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:42] Fetched 10 jobs from the database.
+[2025-01-02 14:42:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:43] Fetched 10 jobs from the database.
+[2025-01-02 14:42:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:43] Fetched 10 jobs from the database.
+[2025-01-02 14:42:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:44] Fetched 10 jobs from the database.
+[2025-01-02 14:42:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:44] Fetched 10 jobs from the database.
+[2025-01-02 14:42:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:45] Fetched 10 jobs from the database.
+[2025-01-02 14:42:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:45] Fetched 10 jobs from the database.
+[2025-01-02 14:42:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:46] Fetched 10 jobs from the database.
+[2025-01-02 14:42:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:46] Fetched 10 jobs from the database.
+[2025-01-02 14:42:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:47] Fetched 10 jobs from the database.
+[2025-01-02 14:42:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:48] Fetched 10 jobs from the database.
+[2025-01-02 14:42:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:48] Fetched 10 jobs from the database.
+[2025-01-02 14:42:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:49] Fetched 10 jobs from the database.
+[2025-01-02 14:42:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:49] Fetched 10 jobs from the database.
+[2025-01-02 14:42:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:50] Fetched 10 jobs from the database.
+[2025-01-02 14:42:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:50] Fetched 10 jobs from the database.
+[2025-01-02 14:42:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:51] Fetched 10 jobs from the database.
+[2025-01-02 14:42:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:51] Fetched 10 jobs from the database.
+[2025-01-02 14:42:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:52] Fetched 10 jobs from the database.
+[2025-01-02 14:42:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:52] Fetched 10 jobs from the database.
+[2025-01-02 14:42:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:53] Fetched 10 jobs from the database.
+[2025-01-02 14:42:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:53] Fetched 10 jobs from the database.
+[2025-01-02 14:42:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:54] Fetched 10 jobs from the database.
+[2025-01-02 14:42:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:54] Fetched 10 jobs from the database.
+[2025-01-02 14:42:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:55] Fetched 10 jobs from the database.
+[2025-01-02 14:42:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:55] Fetched 10 jobs from the database.
+[2025-01-02 14:42:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:56] Fetched 10 jobs from the database.
+[2025-01-02 14:42:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:56] Fetched 10 jobs from the database.
+[2025-01-02 14:42:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:57] Fetched 10 jobs from the database.
+[2025-01-02 14:42:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:57] Fetched 10 jobs from the database.
+[2025-01-02 14:42:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:58] Fetched 10 jobs from the database.
+[2025-01-02 14:42:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:42:59] Fetched 10 jobs from the database.
+[2025-01-02 14:43:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:00] Fetched 10 jobs from the database.
+[2025-01-02 14:43:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:00] Fetched 10 jobs from the database.
+[2025-01-02 14:43:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:01] Fetched 10 jobs from the database.
+[2025-01-02 14:43:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:01] Fetched 10 jobs from the database.
+[2025-01-02 14:43:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:02] Fetched 10 jobs from the database.
+[2025-01-02 14:43:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:02] Fetched 10 jobs from the database.
+[2025-01-02 14:43:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:03] Fetched 10 jobs from the database.
+[2025-01-02 14:43:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:03] Fetched 10 jobs from the database.
+[2025-01-02 14:43:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:04] Fetched 10 jobs from the database.
+[2025-01-02 14:43:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:04] Fetched 10 jobs from the database.
+[2025-01-02 14:43:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:05] Fetched 10 jobs from the database.
+[2025-01-02 14:43:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:05] Fetched 10 jobs from the database.
+[2025-01-02 14:43:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:06] Fetched 10 jobs from the database.
+[2025-01-02 14:43:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:06] Fetched 10 jobs from the database.
+[2025-01-02 14:43:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:07] Fetched 10 jobs from the database.
+[2025-01-02 14:43:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:08] Fetched 10 jobs from the database.
+[2025-01-02 14:43:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:08] Fetched 10 jobs from the database.
+[2025-01-02 14:43:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:09] Fetched 10 jobs from the database.
+[2025-01-02 14:43:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:09] Fetched 10 jobs from the database.
+[2025-01-02 14:43:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:10] Fetched 10 jobs from the database.
+[2025-01-02 14:43:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:10] Fetched 10 jobs from the database.
+[2025-01-02 14:43:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:11] Fetched 10 jobs from the database.
+[2025-01-02 14:43:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:11] Fetched 10 jobs from the database.
+[2025-01-02 14:43:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:12] Fetched 10 jobs from the database.
+[2025-01-02 14:43:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:12] Fetched 10 jobs from the database.
+[2025-01-02 14:43:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:13] Fetched 10 jobs from the database.
+[2025-01-02 14:43:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:13] Fetched 10 jobs from the database.
+[2025-01-02 14:43:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:14] Fetched 10 jobs from the database.
+[2025-01-02 14:43:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:15] Fetched 10 jobs from the database.
+[2025-01-02 14:43:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:15] Fetched 10 jobs from the database.
+[2025-01-02 14:43:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:16] Fetched 10 jobs from the database.
+[2025-01-02 14:43:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:16] Fetched 10 jobs from the database.
+[2025-01-02 14:43:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:17] Fetched 10 jobs from the database.
+[2025-01-02 14:43:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:17] Fetched 10 jobs from the database.
+[2025-01-02 14:43:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:18] Fetched 10 jobs from the database.
+[2025-01-02 14:43:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:19] Fetched 10 jobs from the database.
+[2025-01-02 14:43:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:19] Fetched 10 jobs from the database.
+[2025-01-02 14:43:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:20] Fetched 10 jobs from the database.
+[2025-01-02 14:43:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:20] Fetched 10 jobs from the database.
+[2025-01-02 14:43:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:21] Fetched 10 jobs from the database.
+[2025-01-02 14:43:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:21] Fetched 10 jobs from the database.
+[2025-01-02 14:43:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:22] Fetched 10 jobs from the database.
+[2025-01-02 14:43:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:22] Fetched 10 jobs from the database.
+[2025-01-02 14:43:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:23] Fetched 10 jobs from the database.
+[2025-01-02 14:43:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:23] Fetched 10 jobs from the database.
+[2025-01-02 14:43:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:24] Fetched 10 jobs from the database.
+[2025-01-02 14:43:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:24] Fetched 10 jobs from the database.
+[2025-01-02 14:43:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:25] Fetched 10 jobs from the database.
+[2025-01-02 14:43:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:25] Fetched 10 jobs from the database.
+[2025-01-02 14:43:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:26] Fetched 10 jobs from the database.
+[2025-01-02 14:43:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:26] Fetched 10 jobs from the database.
+[2025-01-02 14:43:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:27] Fetched 10 jobs from the database.
+[2025-01-02 14:43:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:27] Fetched 10 jobs from the database.
+[2025-01-02 14:43:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:28] Fetched 10 jobs from the database.
+[2025-01-02 14:43:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:28] Fetched 10 jobs from the database.
+[2025-01-02 14:43:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:29] Fetched 10 jobs from the database.
+[2025-01-02 14:43:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:29] Fetched 10 jobs from the database.
+[2025-01-02 14:43:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:31] Fetched 10 jobs from the database.
+[2025-01-02 14:43:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:31] Fetched 10 jobs from the database.
+[2025-01-02 14:43:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:32] Fetched 10 jobs from the database.
+[2025-01-02 14:43:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:32] Fetched 10 jobs from the database.
+[2025-01-02 14:43:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:33] Fetched 10 jobs from the database.
+[2025-01-02 14:43:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:33] Fetched 10 jobs from the database.
+[2025-01-02 14:43:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:34] Fetched 10 jobs from the database.
+[2025-01-02 14:43:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:35] Fetched 10 jobs from the database.
+[2025-01-02 14:43:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:35] Fetched 10 jobs from the database.
+[2025-01-02 14:43:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:36] Fetched 10 jobs from the database.
+[2025-01-02 14:43:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:37] Fetched 10 jobs from the database.
+[2025-01-02 14:43:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:37] Fetched 10 jobs from the database.
+[2025-01-02 14:43:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:38] Fetched 10 jobs from the database.
+[2025-01-02 14:43:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:39] Fetched 10 jobs from the database.
+[2025-01-02 14:43:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:40] Fetched 10 jobs from the database.
+[2025-01-02 14:43:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:40] Fetched 10 jobs from the database.
+[2025-01-02 14:43:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:41] Fetched 10 jobs from the database.
+[2025-01-02 14:43:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:42] Fetched 10 jobs from the database.
+[2025-01-02 14:43:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:43] Fetched 10 jobs from the database.
+[2025-01-02 14:43:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:43] Fetched 10 jobs from the database.
+[2025-01-02 14:43:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:44] Fetched 10 jobs from the database.
+[2025-01-02 14:43:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:45] Fetched 10 jobs from the database.
+[2025-01-02 14:43:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:46] Fetched 10 jobs from the database.
+[2025-01-02 14:43:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:46] Fetched 10 jobs from the database.
+[2025-01-02 14:43:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:47] Fetched 10 jobs from the database.
+[2025-01-02 14:43:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:47] Fetched 10 jobs from the database.
+[2025-01-02 14:43:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:48] Fetched 10 jobs from the database.
+[2025-01-02 14:43:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:48] Fetched 10 jobs from the database.
+[2025-01-02 14:43:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:49] Fetched 10 jobs from the database.
+[2025-01-02 14:43:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:50] Fetched 10 jobs from the database.
+[2025-01-02 14:43:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:51] Fetched 10 jobs from the database.
+[2025-01-02 14:43:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:51] Fetched 10 jobs from the database.
+[2025-01-02 14:43:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:52] Fetched 10 jobs from the database.
+[2025-01-02 14:43:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:52] Fetched 10 jobs from the database.
+[2025-01-02 14:43:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:53] Fetched 10 jobs from the database.
+[2025-01-02 14:43:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:53] Fetched 10 jobs from the database.
+[2025-01-02 14:43:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:54] Fetched 10 jobs from the database.
+[2025-01-02 14:43:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:54] Fetched 10 jobs from the database.
+[2025-01-02 14:43:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:55] Fetched 10 jobs from the database.
+[2025-01-02 14:43:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:56] Fetched 10 jobs from the database.
+[2025-01-02 14:43:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:57] Fetched 10 jobs from the database.
+[2025-01-02 14:43:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:57] Fetched 10 jobs from the database.
+[2025-01-02 14:43:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:58] Fetched 10 jobs from the database.
+[2025-01-02 14:43:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:43:59] Fetched 10 jobs from the database.
+[2025-01-02 14:44:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:00] Fetched 10 jobs from the database.
+[2025-01-02 14:44:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:00] Fetched 10 jobs from the database.
+[2025-01-02 14:44:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:01] Fetched 10 jobs from the database.
+[2025-01-02 14:44:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:02] Fetched 10 jobs from the database.
+[2025-01-02 14:44:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:03] Fetched 10 jobs from the database.
+[2025-01-02 14:44:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:03] Fetched 10 jobs from the database.
+[2025-01-02 14:44:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:04] Fetched 10 jobs from the database.
+[2025-01-02 14:44:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:04] Fetched 10 jobs from the database.
+[2025-01-02 14:44:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:05] Fetched 10 jobs from the database.
+[2025-01-02 14:44:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:05] Fetched 10 jobs from the database.
+[2025-01-02 14:44:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:06] Fetched 10 jobs from the database.
+[2025-01-02 14:44:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:06] Fetched 10 jobs from the database.
+[2025-01-02 14:44:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:07] Fetched 10 jobs from the database.
+[2025-01-02 14:44:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:08] Fetched 10 jobs from the database.
+[2025-01-02 14:44:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:09] Fetched 10 jobs from the database.
+[2025-01-02 14:44:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:10] Fetched 10 jobs from the database.
+[2025-01-02 14:44:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:11] Fetched 10 jobs from the database.
+[2025-01-02 14:44:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:11] Fetched 10 jobs from the database.
+[2025-01-02 14:44:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:12] Fetched 10 jobs from the database.
+[2025-01-02 14:44:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:12] Fetched 10 jobs from the database.
+[2025-01-02 14:44:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:13] Fetched 10 jobs from the database.
+[2025-01-02 14:44:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:14] Fetched 10 jobs from the database.
+[2025-01-02 14:44:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:14] Fetched 10 jobs from the database.
+[2025-01-02 14:44:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:15] Fetched 10 jobs from the database.
+[2025-01-02 14:44:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:37] Fetched 10 jobs from the database.
+[2025-01-02 14:44:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:37] Fetched 10 jobs from the database.
+[2025-01-02 14:44:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:38] Fetched 10 jobs from the database.
+[2025-01-02 14:44:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:39] Fetched 10 jobs from the database.
+[2025-01-02 14:44:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:40] Fetched 10 jobs from the database.
+[2025-01-02 14:44:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:40] Fetched 10 jobs from the database.
+[2025-01-02 14:44:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:41] Fetched 10 jobs from the database.
+[2025-01-02 14:44:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:41] Fetched 10 jobs from the database.
+[2025-01-02 14:44:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:42] Fetched 10 jobs from the database.
+[2025-01-02 14:44:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:42] Fetched 10 jobs from the database.
+[2025-01-02 14:44:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:43] Fetched 10 jobs from the database.
+[2025-01-02 14:44:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:43] Fetched 10 jobs from the database.
+[2025-01-02 14:44:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:44] Fetched 10 jobs from the database.
+[2025-01-02 14:44:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:44] Fetched 10 jobs from the database.
+[2025-01-02 14:44:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:45] Fetched 10 jobs from the database.
+[2025-01-02 14:44:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:45] Fetched 10 jobs from the database.
+[2025-01-02 14:44:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:46] Fetched 10 jobs from the database.
+[2025-01-02 14:44:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:47] Fetched 10 jobs from the database.
+[2025-01-02 14:44:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:47] Fetched 10 jobs from the database.
+[2025-01-02 14:44:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:48] Fetched 10 jobs from the database.
+[2025-01-02 14:44:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:49] Fetched 10 jobs from the database.
+[2025-01-02 14:44:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:50] Fetched 10 jobs from the database.
+[2025-01-02 14:44:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:50] Fetched 10 jobs from the database.
+[2025-01-02 14:44:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:51] Fetched 10 jobs from the database.
+[2025-01-02 14:44:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:52] Fetched 10 jobs from the database.
+[2025-01-02 14:44:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:53] Fetched 10 jobs from the database.
+[2025-01-02 14:44:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:53] Fetched 10 jobs from the database.
+[2025-01-02 14:44:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:55] Fetched 10 jobs from the database.
+[2025-01-02 14:44:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:55] Fetched 10 jobs from the database.
+[2025-01-02 14:44:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:56] Fetched 10 jobs from the database.
+[2025-01-02 14:44:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:57] Fetched 10 jobs from the database.
+[2025-01-02 14:44:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:58] Fetched 10 jobs from the database.
+[2025-01-02 14:44:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:58] Fetched 10 jobs from the database.
+[2025-01-02 14:44:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:44:59] Fetched 10 jobs from the database.
+[2025-01-02 14:45:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:00] Fetched 10 jobs from the database.
+[2025-01-02 14:45:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:01] Fetched 10 jobs from the database.
+[2025-01-02 14:45:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:01] Fetched 10 jobs from the database.
+[2025-01-02 14:45:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:03] Fetched 10 jobs from the database.
+[2025-01-02 14:45:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:03] Fetched 10 jobs from the database.
+[2025-01-02 14:45:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:04] Fetched 10 jobs from the database.
+[2025-01-02 14:45:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:05] Fetched 10 jobs from the database.
+[2025-01-02 14:45:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:06] Fetched 10 jobs from the database.
+[2025-01-02 14:45:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:06] Fetched 10 jobs from the database.
+[2025-01-02 14:45:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:07] Fetched 10 jobs from the database.
+[2025-01-02 14:45:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:08] Fetched 10 jobs from the database.
+[2025-01-02 14:45:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:09] Fetched 10 jobs from the database.
+[2025-01-02 14:45:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:09] Fetched 10 jobs from the database.
+[2025-01-02 14:45:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:11] Fetched 10 jobs from the database.
+[2025-01-02 14:45:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:11] Fetched 10 jobs from the database.
+[2025-01-02 14:45:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:12] Fetched 10 jobs from the database.
+[2025-01-02 14:45:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:13] Fetched 10 jobs from the database.
+[2025-01-02 14:45:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:14] Fetched 10 jobs from the database.
+[2025-01-02 14:45:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:14] Fetched 10 jobs from the database.
+[2025-01-02 14:45:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:15] Fetched 10 jobs from the database.
+[2025-01-02 14:45:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:16] Fetched 10 jobs from the database.
+[2025-01-02 14:45:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:17] Fetched 10 jobs from the database.
+[2025-01-02 14:45:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:17] Fetched 10 jobs from the database.
+[2025-01-02 14:45:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:18] Fetched 10 jobs from the database.
+[2025-01-02 14:45:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:18] Fetched 10 jobs from the database.
+[2025-01-02 14:45:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:19] Fetched 10 jobs from the database.
+[2025-01-02 14:45:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:19] Fetched 10 jobs from the database.
+[2025-01-02 14:45:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:21] Fetched 10 jobs from the database.
+[2025-01-02 14:45:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:21] Fetched 10 jobs from the database.
+[2025-01-02 14:45:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:22] Fetched 10 jobs from the database.
+[2025-01-02 14:45:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:22] Fetched 10 jobs from the database.
+[2025-01-02 14:45:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:23] Fetched 10 jobs from the database.
+[2025-01-02 14:45:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:24] Fetched 10 jobs from the database.
+[2025-01-02 14:45:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:25] Fetched 10 jobs from the database.
+[2025-01-02 14:45:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:25] Fetched 10 jobs from the database.
+[2025-01-02 14:45:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:26] Fetched 10 jobs from the database.
+[2025-01-02 14:45:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:26] Fetched 10 jobs from the database.
+[2025-01-02 14:45:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:27] Fetched 10 jobs from the database.
+[2025-01-02 14:45:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:27] Fetched 10 jobs from the database.
+[2025-01-02 14:45:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:29] Fetched 10 jobs from the database.
+[2025-01-02 14:45:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:29] Fetched 10 jobs from the database.
+[2025-01-02 14:45:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:30] Fetched 10 jobs from the database.
+[2025-01-02 14:45:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:31] Fetched 10 jobs from the database.
+[2025-01-02 14:45:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:32] Fetched 10 jobs from the database.
+[2025-01-02 14:45:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:32] Fetched 10 jobs from the database.
+[2025-01-02 14:45:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:34] Fetched 10 jobs from the database.
+[2025-01-02 14:45:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:34] Fetched 10 jobs from the database.
+[2025-01-02 14:45:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:35] Fetched 10 jobs from the database.
+[2025-01-02 14:45:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:36] Fetched 10 jobs from the database.
+[2025-01-02 14:45:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:37] Fetched 10 jobs from the database.
+[2025-01-02 14:45:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:38] Fetched 10 jobs from the database.
+[2025-01-02 14:45:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:39] Fetched 10 jobs from the database.
+[2025-01-02 14:45:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:39] Fetched 10 jobs from the database.
+[2025-01-02 14:45:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:41] Fetched 10 jobs from the database.
+[2025-01-02 14:45:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:41] Fetched 10 jobs from the database.
+[2025-01-02 14:45:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:43] Fetched 10 jobs from the database.
+[2025-01-02 14:45:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:44] Fetched 10 jobs from the database.
+[2025-01-02 14:45:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:45] Fetched 10 jobs from the database.
+[2025-01-02 14:45:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:46] Fetched 10 jobs from the database.
+[2025-01-02 14:45:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:47] Fetched 10 jobs from the database.
+[2025-01-02 14:45:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:47] Fetched 10 jobs from the database.
+[2025-01-02 14:45:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:48] Fetched 10 jobs from the database.
+[2025-01-02 14:45:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:49] Fetched 10 jobs from the database.
+[2025-01-02 14:45:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:50] Fetched 10 jobs from the database.
+[2025-01-02 14:45:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:50] Fetched 10 jobs from the database.
+[2025-01-02 14:45:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:51] Fetched 10 jobs from the database.
+[2025-01-02 14:45:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:52] Fetched 10 jobs from the database.
+[2025-01-02 14:45:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:52] Fetched 10 jobs from the database.
+[2025-01-02 14:45:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:53] Fetched 10 jobs from the database.
+[2025-01-02 14:45:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:54] Fetched 10 jobs from the database.
+[2025-01-02 14:45:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:54] Fetched 10 jobs from the database.
+[2025-01-02 14:45:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:55] Fetched 10 jobs from the database.
+[2025-01-02 14:45:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:55] Fetched 10 jobs from the database.
+[2025-01-02 14:45:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:56] Fetched 10 jobs from the database.
+[2025-01-02 14:45:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:57] Fetched 10 jobs from the database.
+[2025-01-02 14:45:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:58] Fetched 10 jobs from the database.
+[2025-01-02 14:45:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:45:58] Fetched 10 jobs from the database.
+[2025-01-02 14:46:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:00] Fetched 10 jobs from the database.
+[2025-01-02 14:46:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:00] Fetched 10 jobs from the database.
+[2025-01-02 14:46:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:01] Fetched 10 jobs from the database.
+[2025-01-02 14:46:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:01] Fetched 10 jobs from the database.
+[2025-01-02 14:46:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:02] Fetched 10 jobs from the database.
+[2025-01-02 14:46:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:03] Fetched 10 jobs from the database.
+[2025-01-02 14:46:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:04] Fetched 10 jobs from the database.
+[2025-01-02 14:46:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:04] Fetched 10 jobs from the database.
+[2025-01-02 14:46:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:05] Fetched 10 jobs from the database.
+[2025-01-02 14:46:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:05] Fetched 10 jobs from the database.
+[2025-01-02 14:46:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:06] Fetched 10 jobs from the database.
+[2025-01-02 14:46:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:06] Fetched 10 jobs from the database.
+[2025-01-02 14:46:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:07] Fetched 10 jobs from the database.
+[2025-01-02 14:46:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:07] Fetched 10 jobs from the database.
+[2025-01-02 14:46:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:08] Fetched 10 jobs from the database.
+[2025-01-02 14:46:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:09] Fetched 10 jobs from the database.
+[2025-01-02 14:46:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:10] Fetched 10 jobs from the database.
+[2025-01-02 14:46:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:11] Fetched 10 jobs from the database.
+[2025-01-02 14:46:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:12] Fetched 10 jobs from the database.
+[2025-01-02 14:46:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:13] Fetched 10 jobs from the database.
+[2025-01-02 14:46:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:14] Fetched 10 jobs from the database.
+[2025-01-02 14:46:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:14] Fetched 10 jobs from the database.
+[2025-01-02 14:46:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:16] Fetched 10 jobs from the database.
+[2025-01-02 14:46:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:16] Fetched 10 jobs from the database.
+[2025-01-02 14:46:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:17] Fetched 10 jobs from the database.
+[2025-01-02 14:46:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:17] Fetched 10 jobs from the database.
+[2025-01-02 14:46:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:18] Fetched 10 jobs from the database.
+[2025-01-02 14:46:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:18] Fetched 10 jobs from the database.
+[2025-01-02 14:46:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:19] Fetched 10 jobs from the database.
+[2025-01-02 14:46:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:19] Fetched 10 jobs from the database.
+[2025-01-02 14:46:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:20] Fetched 10 jobs from the database.
+[2025-01-02 14:46:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:21] Fetched 10 jobs from the database.
+[2025-01-02 14:46:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:22] Fetched 10 jobs from the database.
+[2025-01-02 14:46:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:22] Fetched 10 jobs from the database.
+[2025-01-02 14:46:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:23] Fetched 10 jobs from the database.
+[2025-01-02 14:46:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:23] Fetched 10 jobs from the database.
+[2025-01-02 14:46:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:24] Fetched 10 jobs from the database.
+[2025-01-02 14:46:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:24] Fetched 10 jobs from the database.
+[2025-01-02 14:46:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:25] Fetched 10 jobs from the database.
+[2025-01-02 14:46:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:25] Fetched 10 jobs from the database.
+[2025-01-02 14:46:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:26] Fetched 10 jobs from the database.
+[2025-01-02 14:46:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:26] Fetched 10 jobs from the database.
+[2025-01-02 14:46:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:27] Fetched 10 jobs from the database.
+[2025-01-02 14:46:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:28] Fetched 10 jobs from the database.
+[2025-01-02 14:46:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:29] Fetched 10 jobs from the database.
+[2025-01-02 14:46:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:29] Fetched 10 jobs from the database.
+[2025-01-02 14:46:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:30] Fetched 10 jobs from the database.
+[2025-01-02 14:46:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:30] Fetched 10 jobs from the database.
+[2025-01-02 14:46:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:31] Fetched 10 jobs from the database.
+[2025-01-02 14:46:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:32] Fetched 10 jobs from the database.
+[2025-01-02 14:46:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:32] Fetched 10 jobs from the database.
+[2025-01-02 14:46:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:33] Fetched 10 jobs from the database.
+[2025-01-02 14:46:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:34] Fetched 10 jobs from the database.
+[2025-01-02 14:46:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:34] Fetched 10 jobs from the database.
+[2025-01-02 14:46:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:35] Fetched 10 jobs from the database.
+[2025-01-02 14:46:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:35] Fetched 10 jobs from the database.
+[2025-01-02 14:46:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:36] Fetched 10 jobs from the database.
+[2025-01-02 14:46:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:36] Fetched 10 jobs from the database.
+[2025-01-02 14:46:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:37] Fetched 10 jobs from the database.
+[2025-01-02 14:46:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:38] Fetched 10 jobs from the database.
+[2025-01-02 14:46:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:39] Fetched 10 jobs from the database.
+[2025-01-02 14:46:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:39] Fetched 10 jobs from the database.
+[2025-01-02 14:46:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:40] Fetched 10 jobs from the database.
+[2025-01-02 14:46:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:40] Fetched 10 jobs from the database.
+[2025-01-02 14:46:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:41] Fetched 10 jobs from the database.
+[2025-01-02 14:46:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:41] Fetched 10 jobs from the database.
+[2025-01-02 14:46:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:42] Fetched 10 jobs from the database.
+[2025-01-02 14:46:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:43] Fetched 10 jobs from the database.
+[2025-01-02 14:46:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:43] Fetched 10 jobs from the database.
+[2025-01-02 14:46:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:44] Fetched 10 jobs from the database.
+[2025-01-02 14:46:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:45] Fetched 10 jobs from the database.
+[2025-01-02 14:46:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:45] Fetched 10 jobs from the database.
+[2025-01-02 14:46:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:46] Fetched 10 jobs from the database.
+[2025-01-02 14:46:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:46] Fetched 10 jobs from the database.
+[2025-01-02 14:46:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:47] Fetched 10 jobs from the database.
+[2025-01-02 14:46:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:48] Fetched 10 jobs from the database.
+[2025-01-02 14:46:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:49] Fetched 10 jobs from the database.
+[2025-01-02 14:46:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:49] Fetched 10 jobs from the database.
+[2025-01-02 14:46:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:50] Fetched 10 jobs from the database.
+[2025-01-02 14:46:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:50] Fetched 10 jobs from the database.
+[2025-01-02 14:46:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:51] Fetched 10 jobs from the database.
+[2025-01-02 14:46:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:52] Fetched 10 jobs from the database.
+[2025-01-02 14:46:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:53] Fetched 10 jobs from the database.
+[2025-01-02 14:46:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:53] Fetched 10 jobs from the database.
+[2025-01-02 14:46:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:54] Fetched 10 jobs from the database.
+[2025-01-02 14:46:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:54] Fetched 10 jobs from the database.
+[2025-01-02 14:46:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:55] Fetched 10 jobs from the database.
+[2025-01-02 14:46:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:56] Fetched 10 jobs from the database.
+[2025-01-02 14:46:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:57] Fetched 10 jobs from the database.
+[2025-01-02 14:46:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:57] Fetched 10 jobs from the database.
+[2025-01-02 14:46:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:58] Fetched 10 jobs from the database.
+[2025-01-02 14:46:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:58] Fetched 10 jobs from the database.
+[2025-01-02 14:46:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:46:59] Fetched 10 jobs from the database.
+[2025-01-02 14:47:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:00] Fetched 10 jobs from the database.
+[2025-01-02 14:47:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:01] Fetched 10 jobs from the database.
+[2025-01-02 14:47:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:01] Fetched 10 jobs from the database.
+[2025-01-02 14:47:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:02] Fetched 10 jobs from the database.
+[2025-01-02 14:47:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:03] Fetched 10 jobs from the database.
+[2025-01-02 14:47:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:04] Fetched 10 jobs from the database.
+[2025-01-02 14:47:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:04] Fetched 10 jobs from the database.
+[2025-01-02 14:47:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:05] Fetched 10 jobs from the database.
+[2025-01-02 14:47:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:05] Fetched 10 jobs from the database.
+[2025-01-02 14:47:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:06] Fetched 10 jobs from the database.
+[2025-01-02 14:47:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:07] Fetched 10 jobs from the database.
+[2025-01-02 14:47:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:07] Fetched 10 jobs from the database.
+[2025-01-02 14:47:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:08] Fetched 10 jobs from the database.
+[2025-01-02 14:47:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:09] Fetched 10 jobs from the database.
+[2025-01-02 14:47:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:09] Fetched 10 jobs from the database.
+[2025-01-02 14:47:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:10] Fetched 10 jobs from the database.
+[2025-01-02 14:47:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:11] Fetched 10 jobs from the database.
+[2025-01-02 14:47:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:12] Fetched 10 jobs from the database.
+[2025-01-02 14:47:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:12] Fetched 10 jobs from the database.
+[2025-01-02 14:47:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:13] Fetched 10 jobs from the database.
+[2025-01-02 14:47:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:13] Fetched 10 jobs from the database.
+[2025-01-02 14:47:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:14] Fetched 10 jobs from the database.
+[2025-01-02 14:47:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:15] Fetched 10 jobs from the database.
+[2025-01-02 14:47:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:16] Fetched 10 jobs from the database.
+[2025-01-02 14:47:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:16] Fetched 10 jobs from the database.
+[2025-01-02 14:47:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:17] Fetched 10 jobs from the database.
+[2025-01-02 14:47:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:17] Fetched 10 jobs from the database.
+[2025-01-02 14:47:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:18] Fetched 10 jobs from the database.
+[2025-01-02 14:47:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:18] Fetched 10 jobs from the database.
+[2025-01-02 14:47:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:20] Fetched 10 jobs from the database.
+[2025-01-02 14:47:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:20] Fetched 10 jobs from the database.
+[2025-01-02 14:47:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:21] Fetched 10 jobs from the database.
+[2025-01-02 14:47:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:21] Fetched 10 jobs from the database.
+[2025-01-02 14:47:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:22] Fetched 10 jobs from the database.
+[2025-01-02 14:47:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:23] Fetched 10 jobs from the database.
+[2025-01-02 14:47:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:23] Fetched 10 jobs from the database.
+[2025-01-02 14:47:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:24] Fetched 10 jobs from the database.
+[2025-01-02 14:47:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:25] Fetched 10 jobs from the database.
+[2025-01-02 14:47:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:26] Fetched 10 jobs from the database.
+[2025-01-02 14:47:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:27] Fetched 10 jobs from the database.
+[2025-01-02 14:47:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:27] Fetched 10 jobs from the database.
+[2025-01-02 14:47:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:28] Fetched 10 jobs from the database.
+[2025-01-02 14:47:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:29] Fetched 10 jobs from the database.
+[2025-01-02 14:47:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:30] Fetched 10 jobs from the database.
+[2025-01-02 14:47:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:30] Fetched 10 jobs from the database.
+[2025-01-02 14:47:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:31] Fetched 10 jobs from the database.
+[2025-01-02 14:47:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:31] Fetched 10 jobs from the database.
+[2025-01-02 14:47:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:32] Fetched 10 jobs from the database.
+[2025-01-02 14:47:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:32] Fetched 10 jobs from the database.
+[2025-01-02 14:47:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:33] Fetched 10 jobs from the database.
+[2025-01-02 14:47:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:33] Fetched 10 jobs from the database.
+[2025-01-02 14:47:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:34] Fetched 10 jobs from the database.
+[2025-01-02 14:47:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:35] Fetched 10 jobs from the database.
+[2025-01-02 14:47:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:35] Fetched 10 jobs from the database.
+[2025-01-02 14:47:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:36] Fetched 10 jobs from the database.
+[2025-01-02 14:47:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:37] Fetched 10 jobs from the database.
+[2025-01-02 14:47:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:37] Fetched 10 jobs from the database.
+[2025-01-02 14:47:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:38] Fetched 10 jobs from the database.
+[2025-01-02 14:47:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:38] Fetched 10 jobs from the database.
+[2025-01-02 14:47:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:39] Fetched 10 jobs from the database.
+[2025-01-02 14:47:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:40] Fetched 10 jobs from the database.
+[2025-01-02 14:47:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:40] Fetched 10 jobs from the database.
+[2025-01-02 14:47:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:41] Fetched 10 jobs from the database.
+[2025-01-02 14:47:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:42] Fetched 10 jobs from the database.
+[2025-01-02 14:47:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:42] Fetched 10 jobs from the database.
+[2025-01-02 14:47:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:43] Fetched 10 jobs from the database.
+[2025-01-02 14:47:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:43] Fetched 10 jobs from the database.
+[2025-01-02 14:47:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:44] Fetched 10 jobs from the database.
+[2025-01-02 14:47:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:44] Fetched 10 jobs from the database.
+[2025-01-02 14:47:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:45] Fetched 10 jobs from the database.
+[2025-01-02 14:47:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:46] Fetched 10 jobs from the database.
+[2025-01-02 14:47:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:46] Fetched 10 jobs from the database.
+[2025-01-02 14:47:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:47] Fetched 10 jobs from the database.
+[2025-01-02 14:47:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:48] Fetched 10 jobs from the database.
+[2025-01-02 14:47:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:48] Fetched 10 jobs from the database.
+[2025-01-02 14:47:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:49] Fetched 10 jobs from the database.
+[2025-01-02 14:47:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:49] Fetched 10 jobs from the database.
+[2025-01-02 14:47:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:50] Fetched 10 jobs from the database.
+[2025-01-02 14:47:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:50] Fetched 10 jobs from the database.
+[2025-01-02 14:47:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:51] Fetched 10 jobs from the database.
+[2025-01-02 14:47:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:52] Fetched 10 jobs from the database.
+[2025-01-02 14:47:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:52] Fetched 10 jobs from the database.
+[2025-01-02 14:47:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:53] Fetched 10 jobs from the database.
+[2025-01-02 14:47:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:53] Fetched 10 jobs from the database.
+[2025-01-02 14:47:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:54] Fetched 10 jobs from the database.
+[2025-01-02 14:47:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:55] Fetched 10 jobs from the database.
+[2025-01-02 14:47:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:55] Fetched 10 jobs from the database.
+[2025-01-02 14:47:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:56] Fetched 10 jobs from the database.
+[2025-01-02 14:47:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:56] Fetched 10 jobs from the database.
+[2025-01-02 14:47:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:57] Fetched 10 jobs from the database.
+[2025-01-02 14:47:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:57] Fetched 10 jobs from the database.
+[2025-01-02 14:47:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:47:59] Fetched 10 jobs from the database.
+[2025-01-02 14:48:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:00] Fetched 10 jobs from the database.
+[2025-01-02 14:48:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:01] Fetched 10 jobs from the database.
+[2025-01-02 14:48:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:02] Fetched 10 jobs from the database.
+[2025-01-02 14:48:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:03] Fetched 10 jobs from the database.
+[2025-01-02 14:48:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:04] Fetched 10 jobs from the database.
+[2025-01-02 14:48:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:05] Fetched 10 jobs from the database.
+[2025-01-02 14:48:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:05] Fetched 10 jobs from the database.
+[2025-01-02 14:48:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:07] Fetched 10 jobs from the database.
+[2025-01-02 14:48:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:07] Fetched 10 jobs from the database.
+[2025-01-02 14:48:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:09] Fetched 10 jobs from the database.
+[2025-01-02 14:48:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:09] Fetched 10 jobs from the database.
+[2025-01-02 14:48:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:11] Fetched 10 jobs from the database.
+[2025-01-02 14:48:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:11] Fetched 10 jobs from the database.
+[2025-01-02 14:48:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:13] Fetched 10 jobs from the database.
+[2025-01-02 14:48:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:13] Fetched 10 jobs from the database.
+[2025-01-02 14:48:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:14] Fetched 10 jobs from the database.
+[2025-01-02 14:48:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:15] Fetched 10 jobs from the database.
+[2025-01-02 14:48:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:16] Fetched 10 jobs from the database.
+[2025-01-02 14:48:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:17] Fetched 10 jobs from the database.
+[2025-01-02 14:48:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:18] Fetched 10 jobs from the database.
+[2025-01-02 14:48:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:18] Fetched 10 jobs from the database.
+[2025-01-02 14:48:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:20] Fetched 10 jobs from the database.
+[2025-01-02 14:48:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:20] Fetched 10 jobs from the database.
+[2025-01-02 14:48:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:22] Fetched 10 jobs from the database.
+[2025-01-02 14:48:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:22] Fetched 10 jobs from the database.
+[2025-01-02 14:48:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:23] Fetched 10 jobs from the database.
+[2025-01-02 14:48:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:24] Fetched 10 jobs from the database.
+[2025-01-02 14:48:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:25] Fetched 10 jobs from the database.
+[2025-01-02 14:48:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:25] Fetched 10 jobs from the database.
+[2025-01-02 14:48:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:26] Fetched 10 jobs from the database.
+[2025-01-02 14:48:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:27] Fetched 10 jobs from the database.
+[2025-01-02 14:48:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:28] Fetched 10 jobs from the database.
+[2025-01-02 14:48:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:29] Fetched 10 jobs from the database.
+[2025-01-02 14:48:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:30] Fetched 10 jobs from the database.
+[2025-01-02 14:48:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:31] Fetched 10 jobs from the database.
+[2025-01-02 14:48:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:32] Fetched 10 jobs from the database.
+[2025-01-02 14:48:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:33] Fetched 10 jobs from the database.
+[2025-01-02 14:48:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:34] Fetched 10 jobs from the database.
+[2025-01-02 14:48:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:34] Fetched 10 jobs from the database.
+[2025-01-02 14:48:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:35] Fetched 10 jobs from the database.
+[2025-01-02 14:48:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:35] Fetched 10 jobs from the database.
+[2025-01-02 14:48:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:36] Fetched 10 jobs from the database.
+[2025-01-02 14:48:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:36] Fetched 10 jobs from the database.
+[2025-01-02 14:48:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:37] Fetched 10 jobs from the database.
+[2025-01-02 14:48:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:38] Fetched 10 jobs from the database.
+[2025-01-02 14:48:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:39] Fetched 10 jobs from the database.
+[2025-01-02 14:48:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:39] Fetched 10 jobs from the database.
+[2025-01-02 14:48:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:40] Fetched 10 jobs from the database.
+[2025-01-02 14:48:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:40] Fetched 10 jobs from the database.
+[2025-01-02 14:48:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:41] Fetched 10 jobs from the database.
+[2025-01-02 14:48:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:41] Fetched 10 jobs from the database.
+[2025-01-02 14:48:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:42] Fetched 10 jobs from the database.
+[2025-01-02 14:48:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:43] Fetched 10 jobs from the database.
+[2025-01-02 14:48:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:43] Fetched 10 jobs from the database.
+[2025-01-02 14:48:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:44] Fetched 10 jobs from the database.
+[2025-01-02 14:48:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:44] Fetched 10 jobs from the database.
+[2025-01-02 14:48:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:45] Fetched 10 jobs from the database.
+[2025-01-02 14:48:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:46] Fetched 10 jobs from the database.
+[2025-01-02 14:48:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:46] Fetched 10 jobs from the database.
+[2025-01-02 14:48:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:47] Fetched 10 jobs from the database.
+[2025-01-02 14:48:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:47] Fetched 10 jobs from the database.
+[2025-01-02 14:48:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:48] Fetched 10 jobs from the database.
+[2025-01-02 14:48:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:48] Fetched 10 jobs from the database.
+[2025-01-02 14:48:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:49] Fetched 10 jobs from the database.
+[2025-01-02 14:48:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:49] Fetched 10 jobs from the database.
+[2025-01-02 14:48:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:50] Fetched 10 jobs from the database.
+[2025-01-02 14:48:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:50] Fetched 10 jobs from the database.
+[2025-01-02 14:48:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:51] Fetched 10 jobs from the database.
+[2025-01-02 14:48:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:51] Fetched 10 jobs from the database.
+[2025-01-02 14:48:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:52] Fetched 10 jobs from the database.
+[2025-01-02 14:48:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:53] Fetched 10 jobs from the database.
+[2025-01-02 14:48:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:54] Fetched 10 jobs from the database.
+[2025-01-02 14:48:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:54] Fetched 10 jobs from the database.
+[2025-01-02 14:48:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:55] Fetched 10 jobs from the database.
+[2025-01-02 14:48:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:56] Fetched 10 jobs from the database.
+[2025-01-02 14:48:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:57] Fetched 10 jobs from the database.
+[2025-01-02 14:48:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:57] Fetched 10 jobs from the database.
+[2025-01-02 14:48:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:58] Fetched 10 jobs from the database.
+[2025-01-02 14:48:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:48:59] Fetched 10 jobs from the database.
+[2025-01-02 14:49:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:00] Fetched 10 jobs from the database.
+[2025-01-02 14:49:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:00] Fetched 10 jobs from the database.
+[2025-01-02 14:49:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:01] Fetched 10 jobs from the database.
+[2025-01-02 14:49:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:01] Fetched 10 jobs from the database.
+[2025-01-02 14:49:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:02] Fetched 10 jobs from the database.
+[2025-01-02 14:49:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:02] Fetched 10 jobs from the database.
+[2025-01-02 14:49:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:03] Fetched 10 jobs from the database.
+[2025-01-02 14:49:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:03] Fetched 10 jobs from the database.
+[2025-01-02 14:49:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:04] Fetched 10 jobs from the database.
+[2025-01-02 14:49:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:05] Fetched 10 jobs from the database.
+[2025-01-02 14:49:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:06] Fetched 10 jobs from the database.
+[2025-01-02 14:49:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:06] Fetched 10 jobs from the database.
+[2025-01-02 14:49:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:07] Fetched 10 jobs from the database.
+[2025-01-02 14:49:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:07] Fetched 10 jobs from the database.
+[2025-01-02 14:49:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:08] Fetched 10 jobs from the database.
+[2025-01-02 14:49:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:09] Fetched 10 jobs from the database.
+[2025-01-02 14:49:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:10] Fetched 10 jobs from the database.
+[2025-01-02 14:49:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:10] Fetched 10 jobs from the database.
+[2025-01-02 14:49:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:11] Fetched 10 jobs from the database.
+[2025-01-02 14:49:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:11] Fetched 10 jobs from the database.
+[2025-01-02 14:49:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:12] Fetched 10 jobs from the database.
+[2025-01-02 14:49:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:13] Fetched 10 jobs from the database.
+[2025-01-02 14:49:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:13] Fetched 10 jobs from the database.
+[2025-01-02 14:49:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:14] Fetched 10 jobs from the database.
+[2025-01-02 14:49:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:15] Fetched 10 jobs from the database.
+[2025-01-02 14:49:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:15] Fetched 10 jobs from the database.
+[2025-01-02 14:49:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:16] Fetched 10 jobs from the database.
+[2025-01-02 14:49:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:17] Fetched 10 jobs from the database.
+[2025-01-02 14:49:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:18] Fetched 10 jobs from the database.
+[2025-01-02 14:49:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:18] Fetched 10 jobs from the database.
+[2025-01-02 14:49:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:19] Fetched 10 jobs from the database.
+[2025-01-02 14:49:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:19] Fetched 10 jobs from the database.
+[2025-01-02 14:49:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:20] Fetched 10 jobs from the database.
+[2025-01-02 14:49:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:20] Fetched 10 jobs from the database.
+[2025-01-02 14:49:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:21] Fetched 10 jobs from the database.
+[2025-01-02 14:49:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:21] Fetched 10 jobs from the database.
+[2025-01-02 14:49:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:22] Fetched 10 jobs from the database.
+[2025-01-02 14:49:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:22] Fetched 10 jobs from the database.
+[2025-01-02 14:49:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:23] Fetched 10 jobs from the database.
+[2025-01-02 14:49:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:24] Fetched 10 jobs from the database.
+[2025-01-02 14:49:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:24] Fetched 10 jobs from the database.
+[2025-01-02 14:49:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:25] Fetched 10 jobs from the database.
+[2025-01-02 14:49:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:25] Fetched 10 jobs from the database.
+[2025-01-02 14:49:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:26] Fetched 10 jobs from the database.
+[2025-01-02 14:49:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:26] Fetched 10 jobs from the database.
+[2025-01-02 14:49:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:27] Fetched 10 jobs from the database.
+[2025-01-02 14:49:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:28] Fetched 10 jobs from the database.
+[2025-01-02 14:49:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:28] Fetched 10 jobs from the database.
+[2025-01-02 14:49:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:29] Fetched 10 jobs from the database.
+[2025-01-02 14:49:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:29] Fetched 10 jobs from the database.
+[2025-01-02 14:49:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:30] Fetched 10 jobs from the database.
+[2025-01-02 14:49:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:30] Fetched 10 jobs from the database.
+[2025-01-02 14:49:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:31] Fetched 10 jobs from the database.
+[2025-01-02 14:49:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:31] Fetched 10 jobs from the database.
+[2025-01-02 14:49:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:32] Fetched 10 jobs from the database.
+[2025-01-02 14:49:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:33] Fetched 10 jobs from the database.
+[2025-01-02 14:49:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:33] Fetched 10 jobs from the database.
+[2025-01-02 14:49:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:34] Fetched 10 jobs from the database.
+[2025-01-02 14:49:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:34] Fetched 10 jobs from the database.
+[2025-01-02 14:49:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:35] Fetched 10 jobs from the database.
+[2025-01-02 14:49:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:36] Fetched 10 jobs from the database.
+[2025-01-02 14:49:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:36] Fetched 10 jobs from the database.
+[2025-01-02 14:49:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:37] Fetched 10 jobs from the database.
+[2025-01-02 14:49:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:37] Fetched 10 jobs from the database.
+[2025-01-02 14:49:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:38] Fetched 10 jobs from the database.
+[2025-01-02 14:49:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:38] Fetched 10 jobs from the database.
+[2025-01-02 14:49:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:39] Fetched 10 jobs from the database.
+[2025-01-02 14:49:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:39] Fetched 10 jobs from the database.
+[2025-01-02 14:49:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:40] Fetched 10 jobs from the database.
+[2025-01-02 14:49:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:40] Fetched 10 jobs from the database.
+[2025-01-02 14:49:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:41] Fetched 10 jobs from the database.
+[2025-01-02 14:49:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:41] Fetched 10 jobs from the database.
+[2025-01-02 14:49:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:42] Fetched 10 jobs from the database.
+[2025-01-02 14:49:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:42] Fetched 10 jobs from the database.
+[2025-01-02 14:49:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:43] Fetched 10 jobs from the database.
+[2025-01-02 14:49:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:43] Fetched 10 jobs from the database.
+[2025-01-02 14:49:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:44] Fetched 10 jobs from the database.
+[2025-01-02 14:49:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:45] Fetched 10 jobs from the database.
+[2025-01-02 14:49:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:45] Fetched 10 jobs from the database.
+[2025-01-02 14:49:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:46] Fetched 10 jobs from the database.
+[2025-01-02 14:49:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:46] Fetched 10 jobs from the database.
+[2025-01-02 14:49:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:47] Fetched 10 jobs from the database.
+[2025-01-02 14:49:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:47] Fetched 10 jobs from the database.
+[2025-01-02 14:49:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:48] Fetched 10 jobs from the database.
+[2025-01-02 14:49:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:48] Fetched 10 jobs from the database.
+[2025-01-02 14:49:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:49] Fetched 10 jobs from the database.
+[2025-01-02 14:49:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:49] Fetched 10 jobs from the database.
+[2025-01-02 14:49:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:50] Fetched 10 jobs from the database.
+[2025-01-02 14:49:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:51] Fetched 10 jobs from the database.
+[2025-01-02 14:49:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:51] Fetched 10 jobs from the database.
+[2025-01-02 14:49:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:52] Fetched 10 jobs from the database.
+[2025-01-02 14:49:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:53] Fetched 10 jobs from the database.
+[2025-01-02 14:49:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:54] Fetched 10 jobs from the database.
+[2025-01-02 14:49:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:54] Fetched 10 jobs from the database.
+[2025-01-02 14:49:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:55] Fetched 10 jobs from the database.
+[2025-01-02 14:49:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:55] Fetched 10 jobs from the database.
+[2025-01-02 14:49:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:56] Fetched 10 jobs from the database.
+[2025-01-02 14:49:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:56] Fetched 10 jobs from the database.
+[2025-01-02 14:49:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:58] Fetched 10 jobs from the database.
+[2025-01-02 14:49:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:49:58] Fetched 10 jobs from the database.
+[2025-01-02 14:50:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:00] Fetched 10 jobs from the database.
+[2025-01-02 14:50:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:00] Fetched 10 jobs from the database.
+[2025-01-02 14:50:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:01] Fetched 10 jobs from the database.
+[2025-01-02 14:50:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:01] Fetched 10 jobs from the database.
+[2025-01-02 14:50:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:02] Fetched 10 jobs from the database.
+[2025-01-02 14:50:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:02] Fetched 10 jobs from the database.
+[2025-01-02 14:50:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:03] Fetched 10 jobs from the database.
+[2025-01-02 14:50:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:03] Fetched 10 jobs from the database.
+[2025-01-02 14:50:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:04] Fetched 10 jobs from the database.
+[2025-01-02 14:50:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:04] Fetched 10 jobs from the database.
+[2025-01-02 14:50:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:05] Fetched 10 jobs from the database.
+[2025-01-02 14:50:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:06] Fetched 10 jobs from the database.
+[2025-01-02 14:50:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:07] Fetched 10 jobs from the database.
+[2025-01-02 14:50:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:07] Fetched 10 jobs from the database.
+[2025-01-02 14:50:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:08] Fetched 10 jobs from the database.
+[2025-01-02 14:50:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:50:09] Fetched 10 jobs from the database.
+[2025-01-02 14:58:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:51] Fetched 10 jobs from the database.
+[2025-01-02 14:58:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:51] Fetched 10 jobs from the database.
+[2025-01-02 14:58:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:52] Fetched 10 jobs from the database.
+[2025-01-02 14:58:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:52] Fetched 10 jobs from the database.
+[2025-01-02 14:58:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:53] Fetched 10 jobs from the database.
+[2025-01-02 14:58:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:53] Fetched 10 jobs from the database.
+[2025-01-02 14:58:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:54] Fetched 10 jobs from the database.
+[2025-01-02 14:58:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:54] Fetched 10 jobs from the database.
+[2025-01-02 14:58:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:55] Fetched 10 jobs from the database.
+[2025-01-02 14:58:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:55] Fetched 10 jobs from the database.
+[2025-01-02 14:58:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:56] Fetched 10 jobs from the database.
+[2025-01-02 14:58:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:56] Fetched 10 jobs from the database.
+[2025-01-02 14:58:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:57] Fetched 10 jobs from the database.
+[2025-01-02 14:58:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:57] Fetched 10 jobs from the database.
+[2025-01-02 14:58:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:58] Fetched 10 jobs from the database.
+[2025-01-02 14:58:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:59] Fetched 10 jobs from the database.
+[2025-01-02 14:58:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:58:59] Fetched 10 jobs from the database.
+[2025-01-02 14:59:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:00] Fetched 10 jobs from the database.
+[2025-01-02 14:59:00] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:00] Fetched 10 jobs from the database.
+[2025-01-02 14:59:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:01] Fetched 10 jobs from the database.
+[2025-01-02 14:59:01] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:01] Fetched 10 jobs from the database.
+[2025-01-02 14:59:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:02] Fetched 10 jobs from the database.
+[2025-01-02 14:59:02] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:02] Fetched 10 jobs from the database.
+[2025-01-02 14:59:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:03] Fetched 10 jobs from the database.
+[2025-01-02 14:59:03] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:03] Fetched 10 jobs from the database.
+[2025-01-02 14:59:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:04] Fetched 10 jobs from the database.
+[2025-01-02 14:59:04] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:04] Fetched 10 jobs from the database.
+[2025-01-02 14:59:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:05] Fetched 10 jobs from the database.
+[2025-01-02 14:59:05] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:05] Fetched 10 jobs from the database.
+[2025-01-02 14:59:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:06] Fetched 10 jobs from the database.
+[2025-01-02 14:59:06] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:06] Fetched 10 jobs from the database.
+[2025-01-02 14:59:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:07] Fetched 10 jobs from the database.
+[2025-01-02 14:59:07] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:07] Fetched 10 jobs from the database.
+[2025-01-02 14:59:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:08] Fetched 10 jobs from the database.
+[2025-01-02 14:59:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:08] Fetched 10 jobs from the database.
+[2025-01-02 14:59:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:08] Fetched 10 jobs from the database.
+[2025-01-02 14:59:08] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:08] Fetched 10 jobs from the database.
+[2025-01-02 14:59:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:09] Fetched 10 jobs from the database.
+[2025-01-02 14:59:09] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:09] Fetched 10 jobs from the database.
+[2025-01-02 14:59:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:10] Fetched 10 jobs from the database.
+[2025-01-02 14:59:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:10] Fetched 10 jobs from the database.
+[2025-01-02 14:59:10] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:10] Fetched 10 jobs from the database.
+[2025-01-02 14:59:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:11] Fetched 10 jobs from the database.
+[2025-01-02 14:59:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:11] Fetched 10 jobs from the database.
+[2025-01-02 14:59:11] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:11] Fetched 10 jobs from the database.
+[2025-01-02 14:59:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:12] Fetched 10 jobs from the database.
+[2025-01-02 14:59:12] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:12] Fetched 10 jobs from the database.
+[2025-01-02 14:59:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:13] Fetched 10 jobs from the database.
+[2025-01-02 14:59:13] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:13] Fetched 10 jobs from the database.
+[2025-01-02 14:59:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:14] Fetched 10 jobs from the database.
+[2025-01-02 14:59:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:14] Fetched 10 jobs from the database.
+[2025-01-02 14:59:14] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:14] Fetched 10 jobs from the database.
+[2025-01-02 14:59:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:15] Fetched 10 jobs from the database.
+[2025-01-02 14:59:15] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:15] Fetched 10 jobs from the database.
+[2025-01-02 14:59:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:16] Fetched 10 jobs from the database.
+[2025-01-02 14:59:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:16] Fetched 10 jobs from the database.
+[2025-01-02 14:59:16] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:16] Fetched 10 jobs from the database.
+[2025-01-02 14:59:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:17] Fetched 10 jobs from the database.
+[2025-01-02 14:59:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:17] Fetched 10 jobs from the database.
+[2025-01-02 14:59:17] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:17] Fetched 10 jobs from the database.
+[2025-01-02 14:59:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:18] Fetched 10 jobs from the database.
+[2025-01-02 14:59:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:18] Fetched 10 jobs from the database.
+[2025-01-02 14:59:18] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:18] Fetched 10 jobs from the database.
+[2025-01-02 14:59:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:19] Fetched 10 jobs from the database.
+[2025-01-02 14:59:19] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:19] Fetched 10 jobs from the database.
+[2025-01-02 14:59:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:20] Fetched 10 jobs from the database.
+[2025-01-02 14:59:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:20] Fetched 10 jobs from the database.
+[2025-01-02 14:59:20] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:20] Fetched 10 jobs from the database.
+[2025-01-02 14:59:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:21] Fetched 10 jobs from the database.
+[2025-01-02 14:59:21] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:21] Fetched 10 jobs from the database.
+[2025-01-02 14:59:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:22] Fetched 10 jobs from the database.
+[2025-01-02 14:59:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:22] Fetched 10 jobs from the database.
+[2025-01-02 14:59:22] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:22] Fetched 10 jobs from the database.
+[2025-01-02 14:59:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:23] Fetched 10 jobs from the database.
+[2025-01-02 14:59:23] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:23] Fetched 10 jobs from the database.
+[2025-01-02 14:59:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:24] Fetched 10 jobs from the database.
+[2025-01-02 14:59:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:24] Fetched 10 jobs from the database.
+[2025-01-02 14:59:24] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:24] Fetched 10 jobs from the database.
+[2025-01-02 14:59:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:25] Fetched 10 jobs from the database.
+[2025-01-02 14:59:25] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:25] Fetched 10 jobs from the database.
+[2025-01-02 14:59:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:26] Fetched 10 jobs from the database.
+[2025-01-02 14:59:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:26] Fetched 10 jobs from the database.
+[2025-01-02 14:59:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:26] Fetched 10 jobs from the database.
+[2025-01-02 14:59:26] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:26] Fetched 10 jobs from the database.
+[2025-01-02 14:59:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:27] Fetched 10 jobs from the database.
+[2025-01-02 14:59:27] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:27] Fetched 10 jobs from the database.
+[2025-01-02 14:59:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:28] Fetched 10 jobs from the database.
+[2025-01-02 14:59:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:28] Fetched 10 jobs from the database.
+[2025-01-02 14:59:28] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:28] Fetched 10 jobs from the database.
+[2025-01-02 14:59:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:29] Fetched 10 jobs from the database.
+[2025-01-02 14:59:29] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:29] Fetched 10 jobs from the database.
+[2025-01-02 14:59:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:30] Fetched 10 jobs from the database.
+[2025-01-02 14:59:30] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:30] Fetched 10 jobs from the database.
+[2025-01-02 14:59:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:31] Fetched 10 jobs from the database.
+[2025-01-02 14:59:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:31] Fetched 10 jobs from the database.
+[2025-01-02 14:59:31] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:31] Fetched 10 jobs from the database.
+[2025-01-02 14:59:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:32] Fetched 10 jobs from the database.
+[2025-01-02 14:59:32] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:32] Fetched 10 jobs from the database.
+[2025-01-02 14:59:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:33] Fetched 10 jobs from the database.
+[2025-01-02 14:59:33] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:33] Fetched 10 jobs from the database.
+[2025-01-02 14:59:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:34] Fetched 10 jobs from the database.
+[2025-01-02 14:59:34] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:34] Fetched 10 jobs from the database.
+[2025-01-02 14:59:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:35] Fetched 10 jobs from the database.
+[2025-01-02 14:59:35] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:35] Fetched 10 jobs from the database.
+[2025-01-02 14:59:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:36] Fetched 10 jobs from the database.
+[2025-01-02 14:59:36] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:36] Fetched 10 jobs from the database.
+[2025-01-02 14:59:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:37] Fetched 10 jobs from the database.
+[2025-01-02 14:59:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:37] Fetched 10 jobs from the database.
+[2025-01-02 14:59:37] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:37] Fetched 10 jobs from the database.
+[2025-01-02 14:59:38] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:38] Fetched 10 jobs from the database.
+[2025-01-02 14:59:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:39] Fetched 10 jobs from the database.
+[2025-01-02 14:59:39] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:39] Fetched 10 jobs from the database.
+[2025-01-02 14:59:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:40] Fetched 10 jobs from the database.
+[2025-01-02 14:59:40] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:40] Fetched 10 jobs from the database.
+[2025-01-02 14:59:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:41] Fetched 10 jobs from the database.
+[2025-01-02 14:59:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:41] Fetched 10 jobs from the database.
+[2025-01-02 14:59:41] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:41] Fetched 10 jobs from the database.
+[2025-01-02 14:59:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:42] Fetched 10 jobs from the database.
+[2025-01-02 14:59:42] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:42] Fetched 10 jobs from the database.
+[2025-01-02 14:59:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:43] Fetched 10 jobs from the database.
+[2025-01-02 14:59:43] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:43] Fetched 10 jobs from the database.
+[2025-01-02 14:59:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:44] Fetched 10 jobs from the database.
+[2025-01-02 14:59:44] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:44] Fetched 10 jobs from the database.
+[2025-01-02 14:59:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:45] Fetched 10 jobs from the database.
+[2025-01-02 14:59:45] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:45] Fetched 10 jobs from the database.
+[2025-01-02 14:59:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:46] Fetched 10 jobs from the database.
+[2025-01-02 14:59:46] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:46] Fetched 10 jobs from the database.
+[2025-01-02 14:59:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:47] Fetched 10 jobs from the database.
+[2025-01-02 14:59:47] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:47] Fetched 10 jobs from the database.
+[2025-01-02 14:59:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:48] Fetched 10 jobs from the database.
+[2025-01-02 14:59:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:48] Fetched 10 jobs from the database.
+[2025-01-02 14:59:48] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:48] Fetched 10 jobs from the database.
+[2025-01-02 14:59:49] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:49] Fetched 10 jobs from the database.
+[2025-01-02 14:59:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:50] Fetched 10 jobs from the database.
+[2025-01-02 14:59:50] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:50] Fetched 10 jobs from the database.
+[2025-01-02 14:59:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:51] Fetched 10 jobs from the database.
+[2025-01-02 14:59:51] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:51] Fetched 10 jobs from the database.
+[2025-01-02 14:59:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:52] Fetched 10 jobs from the database.
+[2025-01-02 14:59:52] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:52] Fetched 10 jobs from the database.
+[2025-01-02 14:59:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:53] Fetched 10 jobs from the database.
+[2025-01-02 14:59:53] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:53] Fetched 10 jobs from the database.
+[2025-01-02 14:59:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:54] Fetched 10 jobs from the database.
+[2025-01-02 14:59:54] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:54] Fetched 10 jobs from the database.
+[2025-01-02 14:59:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:55] Fetched 10 jobs from the database.
+[2025-01-02 14:59:55] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:55] Fetched 10 jobs from the database.
+[2025-01-02 14:59:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:56] Fetched 10 jobs from the database.
+[2025-01-02 14:59:56] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:56] Fetched 10 jobs from the database.
+[2025-01-02 14:59:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:57] Fetched 10 jobs from the database.
+[2025-01-02 14:59:57] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:57] Fetched 10 jobs from the database.
+[2025-01-02 14:59:58] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:58] Fetched 10 jobs from the database.
+[2025-01-02 14:59:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:59] Fetched 10 jobs from the database.
+[2025-01-02 14:59:59] Successfully connected to MySQL database at localhost
+[2025-01-02 14:59:59] Fetched 10 jobs from the database.
+[2025-01-02 15:00:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:00] Fetched 10 jobs from the database.
+[2025-01-02 15:00:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:00] Fetched 10 jobs from the database.
+[2025-01-02 15:00:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:01] Fetched 10 jobs from the database.
+[2025-01-02 15:00:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:01] Fetched 10 jobs from the database.
+[2025-01-02 15:00:02] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:02] Fetched 10 jobs from the database.
+[2025-01-02 15:00:02] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:02] Fetched 10 jobs from the database.
+[2025-01-02 15:00:03] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:03] Fetched 10 jobs from the database.
+[2025-01-02 15:00:03] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:03] Fetched 10 jobs from the database.
+[2025-01-02 15:00:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:04] Fetched 10 jobs from the database.
+[2025-01-02 15:00:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:04] Fetched 10 jobs from the database.
+[2025-01-02 15:00:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:04] Fetched 10 jobs from the database.
+[2025-01-02 15:00:05] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:05] Fetched 10 jobs from the database.
+[2025-01-02 15:00:05] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:05] Fetched 10 jobs from the database.
+[2025-01-02 15:00:06] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:06] Fetched 10 jobs from the database.
+[2025-01-02 15:00:06] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:06] Fetched 10 jobs from the database.
+[2025-01-02 15:00:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:07] Fetched 10 jobs from the database.
+[2025-01-02 15:00:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:07] Fetched 10 jobs from the database.
+[2025-01-02 15:00:08] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:08] Fetched 10 jobs from the database.
+[2025-01-02 15:00:08] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:08] Fetched 10 jobs from the database.
+[2025-01-02 15:00:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:09] Fetched 10 jobs from the database.
+[2025-01-02 15:00:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:09] Fetched 10 jobs from the database.
+[2025-01-02 15:00:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:09] Fetched 10 jobs from the database.
+[2025-01-02 15:00:10] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:10] Fetched 10 jobs from the database.
+[2025-01-02 15:00:10] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:10] Fetched 10 jobs from the database.
+[2025-01-02 15:00:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:11] Fetched 10 jobs from the database.
+[2025-01-02 15:00:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:11] Fetched 10 jobs from the database.
+[2025-01-02 15:00:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:11] Fetched 10 jobs from the database.
+[2025-01-02 15:00:12] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:12] Fetched 10 jobs from the database.
+[2025-01-02 15:00:12] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:12] Fetched 10 jobs from the database.
+[2025-01-02 15:00:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:13] Fetched 10 jobs from the database.
+[2025-01-02 15:00:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:13] Fetched 10 jobs from the database.
+[2025-01-02 15:00:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:13] Fetched 10 jobs from the database.
+[2025-01-02 15:00:14] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:14] Fetched 10 jobs from the database.
+[2025-01-02 15:00:14] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:14] Fetched 10 jobs from the database.
+[2025-01-02 15:00:14] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:14] Fetched 10 jobs from the database.
+[2025-01-02 15:00:15] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:15] Fetched 10 jobs from the database.
+[2025-01-02 15:00:15] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:15] Fetched 10 jobs from the database.
+[2025-01-02 15:00:16] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:16] Fetched 10 jobs from the database.
+[2025-01-02 15:00:16] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:16] Fetched 10 jobs from the database.
+[2025-01-02 15:00:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:17] Fetched 10 jobs from the database.
+[2025-01-02 15:00:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:17] Fetched 10 jobs from the database.
+[2025-01-02 15:00:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:17] Fetched 10 jobs from the database.
+[2025-01-02 15:00:18] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:18] Fetched 10 jobs from the database.
+[2025-01-02 15:00:18] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:18] Fetched 10 jobs from the database.
+[2025-01-02 15:00:19] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:19] Fetched 10 jobs from the database.
+[2025-01-02 15:00:19] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:19] Fetched 10 jobs from the database.
+[2025-01-02 15:00:20] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:20] Fetched 10 jobs from the database.
+[2025-01-02 15:00:20] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:20] Fetched 10 jobs from the database.
+[2025-01-02 15:00:20] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:20] Fetched 10 jobs from the database.
+[2025-01-02 15:00:21] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:21] Fetched 10 jobs from the database.
+[2025-01-02 15:00:21] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:21] Fetched 10 jobs from the database.
+[2025-01-02 15:00:22] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:22] Fetched 10 jobs from the database.
+[2025-01-02 15:00:22] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:22] Fetched 10 jobs from the database.
+[2025-01-02 15:00:23] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:23] Fetched 10 jobs from the database.
+[2025-01-02 15:00:23] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:23] Fetched 10 jobs from the database.
+[2025-01-02 15:00:23] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:23] Fetched 10 jobs from the database.
+[2025-01-02 15:00:24] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:24] Fetched 10 jobs from the database.
+[2025-01-02 15:00:24] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:24] Fetched 10 jobs from the database.
+[2025-01-02 15:00:24] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:24] Fetched 10 jobs from the database.
+[2025-01-02 15:00:25] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:25] Fetched 10 jobs from the database.
+[2025-01-02 15:00:25] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:25] Fetched 10 jobs from the database.
+[2025-01-02 15:00:26] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:26] Fetched 10 jobs from the database.
+[2025-01-02 15:00:26] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:26] Fetched 10 jobs from the database.
+[2025-01-02 15:00:27] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:27] Fetched 10 jobs from the database.
+[2025-01-02 15:00:27] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:27] Fetched 10 jobs from the database.
+[2025-01-02 15:00:28] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:28] Fetched 10 jobs from the database.
+[2025-01-02 15:00:28] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:28] Fetched 10 jobs from the database.
+[2025-01-02 15:00:28] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:28] Fetched 10 jobs from the database.
+[2025-01-02 15:00:29] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:29] Fetched 10 jobs from the database.
+[2025-01-02 15:00:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:30] Fetched 10 jobs from the database.
+[2025-01-02 15:00:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:30] Fetched 10 jobs from the database.
+[2025-01-02 15:00:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:30] Fetched 10 jobs from the database.
+[2025-01-02 15:00:31] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:31] Fetched 10 jobs from the database.
+[2025-01-02 15:00:31] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:31] Fetched 10 jobs from the database.
+[2025-01-02 15:00:32] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:32] Fetched 10 jobs from the database.
+[2025-01-02 15:00:32] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:32] Fetched 10 jobs from the database.
+[2025-01-02 15:00:33] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:33] Fetched 10 jobs from the database.
+[2025-01-02 15:00:33] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:33] Fetched 10 jobs from the database.
+[2025-01-02 15:00:33] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:33] Fetched 10 jobs from the database.
+[2025-01-02 15:00:34] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:34] Fetched 10 jobs from the database.
+[2025-01-02 15:00:34] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:34] Fetched 10 jobs from the database.
+[2025-01-02 15:00:35] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:35] Fetched 10 jobs from the database.
+[2025-01-02 15:00:35] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:35] Fetched 10 jobs from the database.
+[2025-01-02 15:00:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:36] Fetched 10 jobs from the database.
+[2025-01-02 15:00:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:36] Fetched 10 jobs from the database.
+[2025-01-02 15:00:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:36] Fetched 10 jobs from the database.
+[2025-01-02 15:00:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:36] Fetched 10 jobs from the database.
+[2025-01-02 15:00:37] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:37] Fetched 10 jobs from the database.
+[2025-01-02 15:00:37] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:37] Fetched 10 jobs from the database.
+[2025-01-02 15:00:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:38] Fetched 10 jobs from the database.
+[2025-01-02 15:00:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:38] Fetched 10 jobs from the database.
+[2025-01-02 15:00:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:38] Fetched 10 jobs from the database.
+[2025-01-02 15:00:39] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:39] Fetched 10 jobs from the database.
+[2025-01-02 15:00:39] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:39] Fetched 10 jobs from the database.
+[2025-01-02 15:00:40] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:40] Fetched 10 jobs from the database.
+[2025-01-02 15:00:40] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:40] Fetched 10 jobs from the database.
+[2025-01-02 15:00:40] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:40] Fetched 10 jobs from the database.
+[2025-01-02 15:00:41] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:41] Fetched 10 jobs from the database.
+[2025-01-02 15:00:41] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:41] Fetched 10 jobs from the database.
+[2025-01-02 15:00:42] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:42] Fetched 10 jobs from the database.
+[2025-01-02 15:00:42] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:42] Fetched 10 jobs from the database.
+[2025-01-02 15:00:43] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:43] Fetched 10 jobs from the database.
+[2025-01-02 15:00:43] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:43] Fetched 10 jobs from the database.
+[2025-01-02 15:00:43] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:43] Fetched 10 jobs from the database.
+[2025-01-02 15:00:44] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:44] Fetched 10 jobs from the database.
+[2025-01-02 15:00:44] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:44] Fetched 10 jobs from the database.
+[2025-01-02 15:00:45] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:45] Fetched 10 jobs from the database.
+[2025-01-02 15:00:45] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:45] Fetched 10 jobs from the database.
+[2025-01-02 15:00:45] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:45] Fetched 10 jobs from the database.
+[2025-01-02 15:00:46] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:46] Fetched 10 jobs from the database.
+[2025-01-02 15:00:46] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:46] Fetched 10 jobs from the database.
+[2025-01-02 15:00:47] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:47] Fetched 10 jobs from the database.
+[2025-01-02 15:00:47] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:47] Fetched 10 jobs from the database.
+[2025-01-02 15:00:48] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:48] Fetched 10 jobs from the database.
+[2025-01-02 15:00:48] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:48] Fetched 10 jobs from the database.
+[2025-01-02 15:00:48] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:48] Fetched 10 jobs from the database.
+[2025-01-02 15:00:49] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:49] Fetched 10 jobs from the database.
+[2025-01-02 15:00:49] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:49] Fetched 10 jobs from the database.
+[2025-01-02 15:00:50] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:50] Fetched 10 jobs from the database.
+[2025-01-02 15:00:50] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:50] Fetched 10 jobs from the database.
+[2025-01-02 15:00:50] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:50] Fetched 10 jobs from the database.
+[2025-01-02 15:00:51] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:51] Fetched 10 jobs from the database.
+[2025-01-02 15:00:51] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:51] Fetched 10 jobs from the database.
+[2025-01-02 15:00:52] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:52] Fetched 10 jobs from the database.
+[2025-01-02 15:00:52] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:52] Fetched 10 jobs from the database.
+[2025-01-02 15:00:53] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:53] Fetched 10 jobs from the database.
+[2025-01-02 15:00:53] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:53] Fetched 10 jobs from the database.
+[2025-01-02 15:00:54] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:54] Fetched 10 jobs from the database.
+[2025-01-02 15:00:54] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:54] Fetched 10 jobs from the database.
+[2025-01-02 15:00:54] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:54] Fetched 10 jobs from the database.
+[2025-01-02 15:00:55] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:55] Fetched 10 jobs from the database.
+[2025-01-02 15:00:55] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:55] Fetched 10 jobs from the database.
+[2025-01-02 15:00:56] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:56] Fetched 10 jobs from the database.
+[2025-01-02 15:00:56] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:56] Fetched 10 jobs from the database.
+[2025-01-02 15:00:57] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:57] Fetched 10 jobs from the database.
+[2025-01-02 15:00:57] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:57] Fetched 10 jobs from the database.
+[2025-01-02 15:00:58] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:58] Fetched 10 jobs from the database.
+[2025-01-02 15:00:58] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:58] Fetched 10 jobs from the database.
+[2025-01-02 15:00:58] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:58] Fetched 10 jobs from the database.
+[2025-01-02 15:00:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:59] Fetched 10 jobs from the database.
+[2025-01-02 15:00:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:59] Fetched 10 jobs from the database.
+[2025-01-02 15:00:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:00:59] Fetched 10 jobs from the database.
+[2025-01-02 15:01:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:00] Fetched 10 jobs from the database.
+[2025-01-02 15:01:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:00] Fetched 10 jobs from the database.
+[2025-01-02 15:01:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:01] Fetched 10 jobs from the database.
+[2025-01-02 15:01:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:01] Fetched 10 jobs from the database.
+[2025-01-02 15:01:02] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:02] Fetched 10 jobs from the database.
+[2025-01-02 15:01:02] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:02] Fetched 10 jobs from the database.
+[2025-01-02 15:01:03] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:03] Fetched 10 jobs from the database.
+[2025-01-02 15:01:03] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:03] Fetched 10 jobs from the database.
+[2025-01-02 15:01:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:04] Fetched 10 jobs from the database.
+[2025-01-02 15:01:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:04] Fetched 10 jobs from the database.
+[2025-01-02 15:01:05] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:05] Fetched 10 jobs from the database.
+[2025-01-02 15:01:05] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:05] Fetched 10 jobs from the database.
+[2025-01-02 15:01:06] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:06] Fetched 10 jobs from the database.
+[2025-01-02 15:01:06] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:06] Fetched 10 jobs from the database.
+[2025-01-02 15:01:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:07] Fetched 10 jobs from the database.
+[2025-01-02 15:01:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:07] Fetched 10 jobs from the database.
+[2025-01-02 15:01:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:07] Fetched 10 jobs from the database.
+[2025-01-02 15:01:08] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:08] Fetched 10 jobs from the database.
+[2025-01-02 15:01:08] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:08] Fetched 10 jobs from the database.
+[2025-01-02 15:01:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:09] Fetched 10 jobs from the database.
+[2025-01-02 15:01:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:09] Fetched 10 jobs from the database.
+[2025-01-02 15:01:10] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:10] Fetched 10 jobs from the database.
+[2025-01-02 15:01:10] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:10] Fetched 10 jobs from the database.
+[2025-01-02 15:01:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:11] Fetched 10 jobs from the database.
+[2025-01-02 15:01:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:11] Fetched 10 jobs from the database.
+[2025-01-02 15:01:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:11] Fetched 10 jobs from the database.
+[2025-01-02 15:01:12] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:12] Fetched 10 jobs from the database.
+[2025-01-02 15:01:12] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:12] Fetched 10 jobs from the database.
+[2025-01-02 15:01:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:13] Fetched 10 jobs from the database.
+[2025-01-02 15:01:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:13] Fetched 10 jobs from the database.
+[2025-01-02 15:01:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:13] Fetched 10 jobs from the database.
+[2025-01-02 15:01:14] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:14] Fetched 10 jobs from the database.
+[2025-01-02 15:01:14] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:14] Fetched 10 jobs from the database.
+[2025-01-02 15:01:15] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:15] Fetched 10 jobs from the database.
+[2025-01-02 15:01:15] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:15] Fetched 10 jobs from the database.
+[2025-01-02 15:01:16] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:16] Fetched 10 jobs from the database.
+[2025-01-02 15:01:16] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:16] Fetched 10 jobs from the database.
+[2025-01-02 15:01:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:17] Fetched 10 jobs from the database.
+[2025-01-02 15:01:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:17] Fetched 10 jobs from the database.
+[2025-01-02 15:01:28] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:28] Fetched 10 jobs from the database.
+[2025-01-02 15:01:29] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:29] Fetched 10 jobs from the database.
+[2025-01-02 15:01:29] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:29] Fetched 10 jobs from the database.
+[2025-01-02 15:01:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:30] Fetched 10 jobs from the database.
+[2025-01-02 15:01:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:30] Fetched 10 jobs from the database.
+[2025-01-02 15:01:31] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:31] Fetched 10 jobs from the database.
+[2025-01-02 15:01:31] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:31] Fetched 10 jobs from the database.
+[2025-01-02 15:01:32] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:32] Fetched 10 jobs from the database.
+[2025-01-02 15:01:32] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:32] Fetched 10 jobs from the database.
+[2025-01-02 15:01:33] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:33] Fetched 10 jobs from the database.
+[2025-01-02 15:01:34] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:34] Fetched 10 jobs from the database.
+[2025-01-02 15:01:34] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:34] Fetched 10 jobs from the database.
+[2025-01-02 15:01:35] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:35] Fetched 10 jobs from the database.
+[2025-01-02 15:01:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:36] Fetched 10 jobs from the database.
+[2025-01-02 15:01:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:36] Fetched 10 jobs from the database.
+[2025-01-02 15:01:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:38] Fetched 10 jobs from the database.
+[2025-01-02 15:01:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:38] Fetched 10 jobs from the database.
+[2025-01-02 15:01:39] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:39] Fetched 10 jobs from the database.
+[2025-01-02 15:01:39] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:39] Fetched 10 jobs from the database.
+[2025-01-02 15:01:40] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:40] Fetched 10 jobs from the database.
+[2025-01-02 15:01:41] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:41] Fetched 10 jobs from the database.
+[2025-01-02 15:01:42] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:42] Fetched 10 jobs from the database.
+[2025-01-02 15:01:42] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:42] Fetched 10 jobs from the database.
+[2025-01-02 15:01:43] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:43] Fetched 10 jobs from the database.
+[2025-01-02 15:01:43] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:43] Fetched 10 jobs from the database.
+[2025-01-02 15:01:44] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:44] Fetched 10 jobs from the database.
+[2025-01-02 15:01:45] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:45] Fetched 10 jobs from the database.
+[2025-01-02 15:01:46] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:46] Fetched 10 jobs from the database.
+[2025-01-02 15:01:46] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:46] Fetched 10 jobs from the database.
+[2025-01-02 15:01:47] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:47] Fetched 10 jobs from the database.
+[2025-01-02 15:01:47] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:47] Fetched 10 jobs from the database.
+[2025-01-02 15:01:48] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:48] Fetched 10 jobs from the database.
+[2025-01-02 15:01:48] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:48] Fetched 10 jobs from the database.
+[2025-01-02 15:01:49] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:49] Fetched 10 jobs from the database.
+[2025-01-02 15:01:49] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:49] Fetched 10 jobs from the database.
+[2025-01-02 15:01:51] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:51] Fetched 10 jobs from the database.
+[2025-01-02 15:01:51] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:51] Fetched 10 jobs from the database.
+[2025-01-02 15:01:52] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:52] Fetched 10 jobs from the database.
+[2025-01-02 15:01:52] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:52] Fetched 10 jobs from the database.
+[2025-01-02 15:01:53] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:53] Fetched 10 jobs from the database.
+[2025-01-02 15:01:53] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:53] Fetched 10 jobs from the database.
+[2025-01-02 15:01:55] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:55] Fetched 10 jobs from the database.
+[2025-01-02 15:01:55] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:55] Fetched 10 jobs from the database.
+[2025-01-02 15:01:56] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:56] Fetched 10 jobs from the database.
+[2025-01-02 15:01:56] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:56] Fetched 10 jobs from the database.
+[2025-01-02 15:01:57] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:57] Fetched 10 jobs from the database.
+[2025-01-02 15:01:57] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:57] Fetched 10 jobs from the database.
+[2025-01-02 15:01:58] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:58] Fetched 10 jobs from the database.
+[2025-01-02 15:01:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:59] Fetched 10 jobs from the database.
+[2025-01-02 15:01:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:01:59] Fetched 10 jobs from the database.
+[2025-01-02 15:02:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:02:00] Fetched 10 jobs from the database.
+[2025-01-02 15:02:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:02:00] Fetched 10 jobs from the database.
+[2025-01-02 15:02:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:02:01] Fetched 10 jobs from the database.
+[2025-01-02 15:02:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:02:01] Fetched 10 jobs from the database.
+[2025-01-02 15:04:57] Successfully connected to MySQL database at localhost
+[2025-01-02 15:04:57] Fetched 10 jobs from the database.
+[2025-01-02 15:04:57] Successfully connected to MySQL database at localhost
+[2025-01-02 15:04:57] Fetched 10 jobs from the database.
+[2025-01-02 15:04:58] Successfully connected to MySQL database at localhost
+[2025-01-02 15:04:58] Fetched 10 jobs from the database.
+[2025-01-02 15:04:58] Successfully connected to MySQL database at localhost
+[2025-01-02 15:04:58] Fetched 10 jobs from the database.
+[2025-01-02 15:04:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:04:59] Fetched 10 jobs from the database.
+[2025-01-02 15:04:59] Successfully connected to MySQL database at localhost
+[2025-01-02 15:04:59] Fetched 10 jobs from the database.
+[2025-01-02 15:05:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:00] Fetched 10 jobs from the database.
+[2025-01-02 15:05:00] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:00] Fetched 10 jobs from the database.
+[2025-01-02 15:05:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:01] Fetched 10 jobs from the database.
+[2025-01-02 15:05:01] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:01] Fetched 10 jobs from the database.
+[2025-01-02 15:05:02] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:02] Fetched 10 jobs from the database.
+[2025-01-02 15:05:02] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:02] Fetched 10 jobs from the database.
+[2025-01-02 15:05:03] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:03] Fetched 10 jobs from the database.
+[2025-01-02 15:05:03] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:03] Fetched 10 jobs from the database.
+[2025-01-02 15:05:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:04] Fetched 10 jobs from the database.
+[2025-01-02 15:05:04] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:04] Fetched 10 jobs from the database.
+[2025-01-02 15:05:05] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:05] Fetched 10 jobs from the database.
+[2025-01-02 15:05:05] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:05] Fetched 10 jobs from the database.
+[2025-01-02 15:05:06] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:06] Fetched 10 jobs from the database.
+[2025-01-02 15:05:06] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:06] Fetched 10 jobs from the database.
+[2025-01-02 15:05:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:07] Fetched 10 jobs from the database.
+[2025-01-02 15:05:07] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:07] Fetched 10 jobs from the database.
+[2025-01-02 15:05:08] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:08] Fetched 10 jobs from the database.
+[2025-01-02 15:05:08] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:08] Fetched 10 jobs from the database.
+[2025-01-02 15:05:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:09] Fetched 10 jobs from the database.
+[2025-01-02 15:05:09] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:09] Fetched 10 jobs from the database.
+[2025-01-02 15:05:10] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:10] Fetched 10 jobs from the database.
+[2025-01-02 15:05:10] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:10] Fetched 10 jobs from the database.
+[2025-01-02 15:05:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:11] Fetched 10 jobs from the database.
+[2025-01-02 15:05:11] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:11] Fetched 10 jobs from the database.
+[2025-01-02 15:05:12] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:12] Fetched 10 jobs from the database.
+[2025-01-02 15:05:12] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:12] Fetched 10 jobs from the database.
+[2025-01-02 15:05:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:13] Fetched 10 jobs from the database.
+[2025-01-02 15:05:13] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:13] Fetched 10 jobs from the database.
+[2025-01-02 15:05:15] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:15] Fetched 10 jobs from the database.
+[2025-01-02 15:05:15] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:15] Fetched 10 jobs from the database.
+[2025-01-02 15:05:16] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:16] Fetched 10 jobs from the database.
+[2025-01-02 15:05:16] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:16] Fetched 10 jobs from the database.
+[2025-01-02 15:05:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:17] Fetched 10 jobs from the database.
+[2025-01-02 15:05:17] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:17] Fetched 10 jobs from the database.
+[2025-01-02 15:05:18] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:18] Fetched 10 jobs from the database.
+[2025-01-02 15:05:19] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:19] Fetched 10 jobs from the database.
+[2025-01-02 15:05:19] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:19] Fetched 10 jobs from the database.
+[2025-01-02 15:05:20] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:20] Fetched 10 jobs from the database.
+[2025-01-02 15:05:21] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:21] Fetched 10 jobs from the database.
+[2025-01-02 15:05:21] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:21] Fetched 10 jobs from the database.
+[2025-01-02 15:05:22] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:22] Fetched 10 jobs from the database.
+[2025-01-02 15:05:22] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:22] Fetched 10 jobs from the database.
+[2025-01-02 15:05:23] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:23] Fetched 10 jobs from the database.
+[2025-01-02 15:05:23] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:23] Fetched 10 jobs from the database.
+[2025-01-02 15:05:24] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:24] Fetched 10 jobs from the database.
+[2025-01-02 15:05:24] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:24] Fetched 10 jobs from the database.
+[2025-01-02 15:05:24] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:25] Fetched 10 jobs from the database.
+[2025-01-02 15:05:25] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:25] Fetched 10 jobs from the database.
+[2025-01-02 15:05:26] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:26] Fetched 10 jobs from the database.
+[2025-01-02 15:05:26] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:26] Fetched 10 jobs from the database.
+[2025-01-02 15:05:27] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:27] Fetched 10 jobs from the database.
+[2025-01-02 15:05:27] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:28] Fetched 10 jobs from the database.
+[2025-01-02 15:05:28] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:28] Fetched 10 jobs from the database.
+[2025-01-02 15:05:29] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:29] Fetched 10 jobs from the database.
+[2025-01-02 15:05:29] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:29] Fetched 10 jobs from the database.
+[2025-01-02 15:05:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:30] Fetched 10 jobs from the database.
+[2025-01-02 15:05:30] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:30] Fetched 10 jobs from the database.
+[2025-01-02 15:05:31] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:31] Fetched 10 jobs from the database.
+[2025-01-02 15:05:31] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:31] Fetched 10 jobs from the database.
+[2025-01-02 15:05:32] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:32] Fetched 10 jobs from the database.
+[2025-01-02 15:05:32] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:32] Fetched 10 jobs from the database.
+[2025-01-02 15:05:33] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:33] Fetched 10 jobs from the database.
+[2025-01-02 15:05:33] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:33] Fetched 10 jobs from the database.
+[2025-01-02 15:05:34] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:34] Fetched 10 jobs from the database.
+[2025-01-02 15:05:34] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:34] Fetched 10 jobs from the database.
+[2025-01-02 15:05:35] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:35] Fetched 10 jobs from the database.
+[2025-01-02 15:05:35] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:35] Fetched 10 jobs from the database.
+[2025-01-02 15:05:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:36] Fetched 10 jobs from the database.
+[2025-01-02 15:05:36] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:36] Fetched 10 jobs from the database.
+[2025-01-02 15:05:37] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:37] Fetched 10 jobs from the database.
+[2025-01-02 15:05:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:38] Fetched 10 jobs from the database.
+[2025-01-02 15:05:38] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:38] Fetched 10 jobs from the database.
+[2025-01-02 15:05:39] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:39] Fetched 10 jobs from the database.
+[2025-01-02 15:05:40] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:40] Fetched 10 jobs from the database.
+[2025-01-02 15:05:41] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:41] Fetched 10 jobs from the database.
+[2025-01-02 15:05:41] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:41] Fetched 10 jobs from the database.
+[2025-01-02 15:05:42] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:42] Fetched 10 jobs from the database.
+[2025-01-02 15:05:43] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:43] Fetched 10 jobs from the database.
+[2025-01-02 15:05:44] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:44] Fetched 10 jobs from the database.
+[2025-01-02 15:05:44] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:44] Fetched 10 jobs from the database.
+[2025-01-02 15:05:45] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:45] Fetched 10 jobs from the database.
+[2025-01-02 15:05:47] Successfully connected to MySQL database at localhost
+[2025-01-02 15:05:47] Fetched 10 jobs from the database.
+[2025-01-02 15:06:44] Successfully connected to MySQL database at localhost
+[2025-01-02 15:06:45] Successfully connected to MySQL database at localhost
+[2025-01-02 15:06:45] Fetched 11 jobs from the database.
+[2025-01-02 15:07:14] Successfully connected to MySQL database at localhost
+[2025-01-02 15:07:14] Fetched 9 jobs from the database.

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Command</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Add a New Command</h1>
+        <form id="addCommandForm">
+            <label for="name">Job Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="command">Command:</label>
+            <input type="text" id="command" name="command" required><br><br>
+
+            <label for="description">Description:</label>
+            <input type="text" id="description" name="description"><br><br>
+
+            <button type="submit">Add Command</button>
+        </form>
+        <p id="responseMessage"></p>
+    </div>
+
+    <script src="add_job.js"></script>
+    <script>
+        document.getElementById("addCommandForm").addEventListener("submit", function (event) {
+          event.preventDefault(); // Prevent form submission
+      
+          const name = document.getElementById("name").value;
+          const command = document.getElementById("command").value;
+          const description = document.getElementById("description").value;
+      
+          addJob(name, command, description); // Call the function to add the job
+        });
+      </script>
+</body>
+</html>
