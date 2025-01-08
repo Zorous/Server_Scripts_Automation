@@ -129,7 +129,7 @@ function runScript() {
 
   const requestData = { script_id: selectedScriptId };
 
-  fetch("http://localhost:5004/run_script", {
+  fetch("http://localhost:5000/run_script", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
