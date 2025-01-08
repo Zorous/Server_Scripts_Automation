@@ -8,9 +8,8 @@ from datetime import datetime
 import os
 
 # Initialize Flask app
-app = Flask(__name__)
+app = Flask(__name__, static_folder='frontend/static', static_url_path='/static')
 CORS(app)  # Enable CORS for all routes
-
 
 # Hardcoded admin credentials
 USER_CREDENTIALS = {'username': 'admin', 'password': 'admin123'}
@@ -114,6 +113,23 @@ def rexec_command(host, port, username, password, command):
         error_message = f"Error executing REXEC command: {str(e)}"
         write_log(error_message)
         return error_message
+
+@app.route('/scripts', methods=['GET'])
+def list_scripts():
+    print("GET /scripts route is hit")
+
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor(dictionary=True)
+        cursor.execute("SELECT Id, JobName, Description FROM jobs")
+        jobs = cursor.fetchall()
+        cursor.close()
+        conn.close()
+
+        job_list = [{"id": job['Id'], "name": f"{job['JobName']} ({job['Description']})"} for job in jobs]
+        return jsonify({"jobs": job_list})
+    except mysql.connector.Error as err:
+        return jsonify({'error': f"Error fetching data: {err}"}), 500
 
 
 # Route for user login
@@ -294,34 +310,14 @@ def add_command():
         conn.close()
 
 
-@app.route('/scripts/', methods=['GET'])
-def list_scripts():
-    print("GET /scripts route is hit")
+@app.route('/test', methods=['GET'])
+def test():
+    return "Test route works!"
 
-    try:
-        conn = get_db_connection()
-        cursor = conn.cursor(dictionary=True)
-        cursor.execute("SELECT Id, JobName, Description FROM jobs")
-        jobs = cursor.fetchall()
-        print(f"Jobs fetched: {jobs}")  # Log the fetched jobs
-        cursor.close()
-        conn.close()
-
-        job_list = [{"id": job['Id'], "name": f"{job['JobName']} ({job['Description']})"} for job in jobs]
-        print(f"Job list: {job_list}")  # Log the final list
-        return jsonify({"jobs": job_list})
-    except mysql.connector.Error as err:
-        print(f"Error fetching data: {err}")  # Log the error
-        return jsonify({'error': f"Error fetching data: {err}"}), 500
-
-
-
-'''print("Registered Routes:")
+print("Registered Routes:")
 for rule in app.url_map.iter_rules():
     print(f"{rule.endpoint}: {rule}")
-'''
 
 print("Starting Flask app...")       
 if __name__ == "__main__":
-    app.run(port=5000,debug=True)
-
+    app.run(host='0.0.0.0', port=5000, debug=True)
